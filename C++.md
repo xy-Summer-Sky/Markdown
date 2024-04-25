@@ -11,17 +11,17 @@ C++ does not impose structure on a file
 1. open the file for output by creating an **ofstream** object.
    Two arguments are passed to the object's constructor-the filename and the fileopen mode .For an ofstream object, the file-open mode can be either **ios::out (the default)** to output data to a file or **ios: :app** to append data to the tail of file
 
-   ![image-20240422163622036](./assets/image-20240422163622036-1713775185412-36-1713775373717-46.png)
+   ![image-20240422163622036](./assets/image-20240422163622036-1713775185412-36-1713775373717-46-1714056328867-1.png)
 
    ps:out模式打开一个文件将会导致原内容被清空，从开头位置重新写入内容，即文件truncated，如果不存在，会自动创建一个文件​
 
-2. open a file via the **open Member Function**![image-20240422163924036](./assets/image-20240422163924036-1713775373716-45.png)
+2. open a file via the **open Member Function**![image-20240422163924036](./assets/image-20240422163924036-1713775373716-45-1714056328867-2.png)
 
-   ![image-20240422164136678](./assets/image-20240422164136678.png)
+   ![image-20240422164136678](./assets/image-20240422164136678-1714056328867-3.png)
 
 #### 文件的关闭
 
-![image-20240422164936467](/C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20240422164936467.png)
+![image-20240422164936467](./assets/image-20240422164936467.png)
 
 #### Reading Data from sequence File
 
@@ -32,7 +32,7 @@ C++中，当你使用标准库中的文件流（如`ifstream`）读取文件时�
 Both istream and ostream provide member functions for **repositioning the file-position pointer** (the byte number of the next byte in the file to be read or written).These member functions are **seekg("seek get"**)for istream and **seekp("seek put")**for ostream.Each istream object has a **get pointer**,which indicates the byte number in the file from which the next input is to occur,and each ostream object has a **put pointer**,which indicates the byte number in the file at
 which the next output should be placed.
 
-![image-20240422171941058](./assets/image-20240422171941058.png)
+![image-20240422171941058](./assets/image-20240422171941058-1714056328867-4.png)
 
 #### 更新顺序文件
 
@@ -81,11 +81,11 @@ problem is that,in the **formatted input/output** model using the stream inserti
 
 outFile.write(reinterpret_cast<const char *>&number ),sizeof(number ))
 
-![image-20240422174350095](./assets/image-20240422174350095.png)
+![image-20240422174350095](./assets/image-20240422174350095-1714056328867-5.png)
 
 其中以固定长度的record写文件**ios：：binary**不可少
 
-![image-20240422150111562](./assets/image-20240422150111562-1713775011677-17-1713775185413-37-1713775373717-47.png)
+![image-20240422150111562](./assets/image-20240422150111562-1713775011677-17-1713775185413-37-1713775373717-47-1714056328867-7.png)
 
 reinterpret_cast类型转换，write要求类型是const char*,不同于之前的动态转换，这里的类型转换是在编译阶段已经转换好了
 
@@ -93,18 +93,18 @@ reinterpret_cast类型转换，write要求类型是const char*,不同于之前�
 
 In Fig.14.11,line 11 creates an ofstream object for the file credit.dat.The second argument to the constructor-**ios:out | ios:binary**-indicates that we are opening the file for output in binary mode,which is required if we are to write **fixed-length** records.Multiple file-open modes are combined by separating each open mode from the next with the **|** operator,which is known as the bitwise inclusive OR operator.
 
-![image-20240422152250590](./assets/image-20240422152250590-1713775011677-18-1713775185413-38-1713775373717-48.png)
+![image-20240422152250590](./assets/image-20240422152250590-1713775011677-18-1713775185413-38-1713775373717-48-1714056328867-6.png)
 
 Function **seekp** sets the put file-position pointer to a specific
 position in the file,then function write outputs the data.
 
-![image-20240422152548886](./assets/image-20240422152548886-1713775011677-19-1713775185413-39-1713775373717-49.png)
+![image-20240422152548886](./assets/image-20240422152548886-1713775011677-19-1713775185413-39-1713775373717-49-1714056328867-8.png)
 
 ### 读写文件
 
 The ostream member function **write** outputs to the specified stream a fixed number of bytes,beginning at a specific location in memory. The istream member function **read** inputs a fixed number of bytes from the specified stream to an area in memory beginning at a specified address.
 
-![image-20240422190758367](./assets/image-20240422190758367.png)
+![image-20240422190758367](./assets/image-20240422190758367-1714056328867-9.png)
 
 读取字节数为sizeof（ClientData），存放到&client中，并且需要类型转换，write/read只接受const char*
 
