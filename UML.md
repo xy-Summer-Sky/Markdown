@@ -1,4 +1,47 @@
-# chapter 6
+# 缩写词汇汇总
+
+- **UP：**软件开发(过程)模型—统一过程模型(UP)
+
+  初始阶段：生命周期目标。-Inception Phase
+
+  精化阶段：生命周期架构。-Elaboration Phase
+
+  构建阶段：初始运作功能。-Construction Phase
+
+  移交阶段：产品发布。-Transition Phase
+
+- **RUP**:**统一软件开发过程**（英语：Rational Unified Process，缩写为RUP）是一种软件工程方法，为迭代式软件开发流程。
+
+- **Discipline**：（科目）科目是在一个主题域中的一组活动以及相关制品
+
+- **Artifact**：（制品）是对所有工作产品的统称（如：代码、web图形、数据库模式、文本文档、图、模型等）
+
+- **Domain Model**：领域模型-Start in Elaboration
+  This is a visualization of the domain concepts;it is similar to a
+  static information model of the domain entities.
+
+- **Design Model：**设计模型-Start in Elaboration
+
+  This is the set of diagrams that describes the logical design. This includes software class diagrams,object interaction diagrams,package diagrams,and so forth.
+
+- **Data Model**：数据模型-Start in Elaboration
+
+  This includes the database schemas,and the mapping strategies between object and non-object representations.
+
+- **SSD：**系统顺序图。
+
+  系统顺序图表示的是，对于用例的一个特定场景，外部参与者产生的事件，其顺序和系统之内的事件。所有系统被视为黑盒，该图强调的是从参与者到系统的跨越系统边界的事件。A system sequence diagram is a picture that shows,for one particular scenario of a use case,the events that external actors generate,their order,and
+  inter-system events. All systems are treated as a black box;the emphasis of the diagram is events that cross the system boundary from actors to systems.
+
+
+
+
+
+# 用例模型
+
+SSD、
+
+# **chapte**r 6
 
 ## 6.14 109
 
@@ -128,3 +171,29 @@ value and leaves the data in a consistent state,e.g.,Approve Credit or Price Ord
 某些应用需要特性驱动的viewpoint
 
 7.1.7豪豪：强烈推荐点赞
+
+
+
+# 堂测
+
+1、![image-20240430091755760](./assets/image-20240430091755760.png)
+
+Use-case realization(例如java中接口类-抽象类的实现)
+
+参考：
+
+![image-20240430091936955](./assets/image-20240430091936955.png)
+
+也可以使用实线箭头，但是要有标签《realization》
+
+2.D![image-20240430094424919](./assets/image-20240430094424919.png)
+
+组件图——该图中是clock实现了Timer接口后提供一个接口,用圆圈表示；半圆是需求接口
+
+这里timer类是abstract抽象类
+
+3.![image-20240430100857460](./assets/image-20240430100857460.png)
+
+232
+
+状态图跨用例；
