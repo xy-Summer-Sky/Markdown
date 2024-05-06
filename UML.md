@@ -33,9 +33,73 @@
   系统顺序图表示的是，对于用例的一个特定场景，外部参与者产生的事件，其顺序和系统之内的事件。所有系统被视为黑盒，该图强调的是从参与者到系统的跨越系统边界的事件。A system sequence diagram is a picture that shows,for one particular scenario of a use case,the events that external actors generate,their order,and
   inter-system events. All systems are treated as a black box;the emphasis of the diagram is events that cross the system boundary from actors to systems.
 
+# [uml图六种箭头的含义（泛化、实现、依赖、关联、聚合、组合）](https://blog.csdn.net/qq_20936333/article/details/86773664)
+
+泛化
+
+
+概念：泛化是一种一般与特殊、一般与具体之间关系的描述，具体描述建立在一般描述的基础之上，并对其进行了扩展。在java中用来表示继承的关系。
+
+表示方法：用实线空心三角箭头表示。
+
+![img](./assets/20190207233944733.png)
 
 
 
+ 
+
+实现
+
+
+概念：实现是一种类与接口的关系，表示类是接口所有特征和行为的实现，在程序中一般通过类实现接口来描述
+
+表示方法：空心三角形箭头的虚线，实现类指向接口
+
+![img](./assets/20190207234002462.png)
+
+
+
+ 
+
+依赖
+
+
+概念：是一种使用的关系，即一个类的实现需要另一个类的协助。
+
+java中，方法参数需要传入另一个类的对象，就表示依赖这个类。
+
+表示方法：虚线箭头，类A指向类B。
+
+![img](./assets/20190207234015353.png)
+
+ 
+
+关联
+
+
+概念：表示类与类之间的联接,它使一个类知道另一个类的属性和方法，这种关系比依赖更强、不存在依赖关系的偶然性、关系也不是临时性的，一般是长期性的。
+
+java中一个类的全局变量引用了另一个类，就表示关联了这个类
+
+表示方法：实线箭头，类A指向类B
+
+![img](./assets/20190207234027556.png)
+
+ 
+
+聚合
+概念：聚合关联关系的一种特例，是强的关联关系。聚合是整体和个体之间的关系，即has-a的关系，整体与个体可以具有各自的生命周期，部分可以属于多个整体对象，也可以为多个整体对象共享。程序中聚合和关联关系是一致的，只能从语义级别来区分；
+
+表示方法：尾部为空心菱形的实线箭头（也可以没箭头），类A指向类B
+
+![img](./assets/20190207234036928.png)
+
+组合
+概念：组合也是关联关系的一种特例。组合是一种整体与部分的关系，即contains-a的关系，比聚合更强。部分与整体的生命周期一致，整体的生命周期结束也就意味着部分的生命周期结束，组合关系不能共享。程序中组合和关联关系是一致的，只能从语义级别来区分。
+
+表示方法：尾部为实心菱形的实现箭头（也可以没箭头），类A指向类B
+
+![img](./assets/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIwOTM2MzMz,size_16,color_FFFFFF,t_70.png)
 
 # 用例模型
 
@@ -198,9 +262,18 @@ Use-case realization(例如java中接口类-抽象类的实现)
 
 状态图跨用例；
 
-# [顺序图](https://blog.csdn.net/xingjiarong/article/details/50232199)
+# GoF
+
+## [顺序图](https://blog.csdn.net/xingjiarong/article/details/50232199)
 
 ![image-20240505191224808](./assets/image-20240505191224808.png)
+
+**消息类型 :**
+– ![这里写图片描述](./assets/20140306160557765.jpeg) : 两个对象间绘制消息;
+– ![这里写图片描述](./assets/20140306160718453.jpeg) : 两个对象之间的过程调用;
+– ![这里写图片描述](./assets/20140306160803703.jpeg): 两个对象之间的异步消息;
+– ![这里写图片描述](./assets/20140306160855734.jpeg): 过程调用中返回的消息;
+– ![这里写图片描述](./assets/20140306161046843.jpeg) : 绘制反身消息;
 
 ### 对象
 
