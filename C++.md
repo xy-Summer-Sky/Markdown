@@ -121,3 +121,7 @@ Problems
 c++不提供这个方法，但是有第三方库可以实现序列化，解决对象输入输出问题
 
 # Chapter 15 Standard Library Containers and Iterators p559
+
+# 泛化编程generic programming
+
+## Custom Templates模板
