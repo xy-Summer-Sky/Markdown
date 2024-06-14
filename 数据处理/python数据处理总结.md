@@ -1,4 +1,4 @@
-# 处理excel数据收获2024/4/29
+## 处理excel数据收获2024/4/29
 
 
 
@@ -14,3 +14,21 @@
 
 6. **Python数据处理**：你处理了一些CSV文件，这些文件包含了日期和数值。你可能使用了Python的`csv`模块或者`pandas`库来读取和处理这些数据。
 
+# [numpy 和 pandas ](https://benpaodewoniu.github.io/2018/12/17/python39/)
+
+### [pandas](https://zhuanlan.zhihu.com/p/59307125)
+
+loc、iloc
+
+# [Matplotlib](https://www.matplotlib.org.cn/)2D图形库
+
+## SQLite
+
+## json文件
+
+```
+# 获取所有的数值
+values = [item[1] for sublist in data for item in sublist['data']]
+```
+
+从左往右；data是json文件load；sublist为data数据项；item为sublist的key为data的数据项，item[1]取data的第二项
