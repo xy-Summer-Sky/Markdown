@@ -1,0 +1,77 @@
+09:29:54.227 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on node-2 with PID 13503 (/home/kingpoint/ml_client/apache-tomcat-9.0.62/webapps/ml_client/WEB-INF/classes started by root in /home/kingpoint/ml_client/apache-tomcat-9.0.62/bin)
+09:29:54.232 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+09:29:55.725 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarted,61] - Started MySpringBootServletInitializer in 2.127 seconds (JVM running for 4.883)
+09:30:00.002 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:30:00.013 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:31:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:31:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:32:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:32:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:33:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:33:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:34:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:34:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:35:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:35:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:36:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:36:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:37:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:37:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:38:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:38:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:39:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:39:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:40:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:40:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:41:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:41:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:42:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:42:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:43:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:43:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:44:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:44:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:51:20.630 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on node-2 with PID 23210 (/home/kingpoint/ml_client/apache-tomcat-9.0.62/webapps/ml_client/WEB-INF/classes started by root in /home/kingpoint/ml_client/apache-tomcat-9.0.62/bin)
+09:51:20.634 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+09:51:22.190 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarted,61] - Started MySpringBootServletInitializer in 2.253 seconds (JVM running for 4.765)
+09:52:00.003 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:52:00.004 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:53:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:53:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:54:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:54:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:55:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:55:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+09:56:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+09:56:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+10:00:08.238 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on DESKTOP-2J6T757 with PID 14016 (D:\apache-tomcat-9.0.62\webapps\ml_client\WEB-INF\classes started by jiangxianneng in D:\apache-tomcat-9.0.62\bin)
+10:00:08.249 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+10:02:12.259 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on DESKTOP-2J6T757 with PID 22552 (D:\apache-tomcat-9.0.62\webapps\ml_client\WEB-INF\classes started by jiangxianneng in D:\apache-tomcat-9.0.62\bin)
+10:02:12.266 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+10:02:13.940 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarted,61] - Started MySpringBootServletInitializer in 2.418 seconds (JVM running for 5.51)
+10:03:00.011 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - �������񻺴�Ϊ�գ���ִ��
+10:03:00.012 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - ʵ�黺��Ϊ�գ���ִ������
+10:04:00.002 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - ʵ�黺��Ϊ�գ���ִ������
+10:04:00.003 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - �������񻺴�Ϊ�գ���ִ��
+10:04:04.538 [http-nio-5560-exec-6] INFO  c.k.m.c.c.ClientController - [noticeExperiment,56] - ���յ�ʵ��֪ͨ:{}
+10:05:00.011 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,55] - ��ִ�е�������
+10:05:00.011 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [scanningExperimentDir,87] - ��ʵ��Ŀ¼��ȡabcd��
+10:05:00.021 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [scanningExperimentDir,90] - ��ʵ��Ŀ¼�����ڡ�
+10:05:00.022 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - �������񻺴�Ϊ�գ���ִ��
+10:05:35.250 [http-nio-5560-exec-3] INFO  c.k.m.c.c.ClientController - [noticeRun,78] - ���յ�ʵ��֪ͨ:{}
+10:05:35.252 [http-nio-5560-exec-3] INFO  c.k.m.c.s.i.ClientServiceImpl - [saveRunInfo,57] - ����ʼ�������в������ݡ�
+10:06:00.002 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,37] - ��ִ�е�������
+10:06:00.003 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [scanningRunDir,48] - ��ʵ������Ŀ¼��ȡrun-0��
+10:06:00.004 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [scanningRunDir,51] - ��ʵ������Ŀ¼�����ڡ�
+10:06:00.005 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,55] - ��ִ�е�������
+10:06:00.006 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [scanningExperimentDir,87] - ��ʵ��Ŀ¼��ȡabcd��
+10:06:00.007 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [scanningExperimentDir,90] - ��ʵ��Ŀ¼�����ڡ�
+14:09:24.231 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on DESKTOP-2J6T757 with PID 23592 (D:\apache-tomcat-9.0.62\webapps\ml_client\WEB-INF\classes started by jiangxianneng in D:\apache-tomcat-9.0.62\bin)
+14:09:24.238 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+14:09:25.944 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarted,61] - Started MySpringBootServletInitializer in 2.466 seconds (JVM running for 8.856)
+14:10:36.987 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on DESKTOP-2J6T757 with PID 24624 (D:\apache-tomcat-9.0.62\webapps\ml_client\WEB-INF\classes started by jiangxianneng in D:\apache-tomcat-9.0.62\bin)
+14:10:36.992 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+14:10:38.593 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarted,61] - Started MySpringBootServletInitializer in 2.193 seconds (JVM running for 5.034)
+14:15:03.350 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on DESKTOP-2J6T757 with PID 13940 (D:\apache-tomcat-9.0.62\webapps\ml_client\WEB-INF\classes started by jiangxianneng in D:\apache-tomcat-9.0.62\bin)
+14:15:03.354 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,655] - The following profiles are active: windows
+14:15:04.949 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarted,61] - Started MySpringBootServletInitializer in 2.296 seconds (JVM running for 5.344)

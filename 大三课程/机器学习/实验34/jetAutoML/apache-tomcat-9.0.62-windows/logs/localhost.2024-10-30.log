@@ -1,0 +1,4 @@
+30-Oct-2024 20:29:07.211 信息 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+30-Oct-2024 20:31:53.195 信息 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+30-Oct-2024 20:31:58.362 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+30-Oct-2024 20:45:28.216 信息 [http-nio-5560-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'

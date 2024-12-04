@@ -1,0 +1,59 @@
+{
+  "session_id": "test_session_id",
+  "path_groups": [
+    {
+      "city_id": 1,
+      "user_id": 1,
+      "parent_contour": {
+        "path": [
+          {
+            "x": 606,
+            "y": 592
+          },
+          {
+            "x": 606,
+            "y": 667
+          },
+          {
+            "x": 698,
+            "y": 667
+          },
+          {
+            "x": 698,
+            "y": 592
+          }
+        ],
+        "height": "300"
+      },
+      "child_contours": [],
+      "image_id": 6
+    },
+    {
+      "city_id": 1,
+      "user_id": 1,
+      "parent_contour": {
+        "path": [
+          {
+            "x": 618,
+            "y": 714
+          },
+          {
+            "x": 629,
+            "y": 881
+          },
+          {
+            "x": 797,
+            "y": 881
+          },
+          {
+            "x": 797,
+            "y": 718
+          }
+        ],
+        "height": "200"
+      },
+      "child_contours": [],
+      "image_id": 6
+    }
+  ]
+}

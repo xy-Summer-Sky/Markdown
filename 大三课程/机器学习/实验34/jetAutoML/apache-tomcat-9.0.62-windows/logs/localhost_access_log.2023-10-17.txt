@@ -1,0 +1,8 @@
+127.0.0.1 - - [17/Oct/2023:10:02:15 +0800] "GET /client/loadSavePath HTTP/1.1" 404 723
+127.0.0.1 - - [17/Oct/2023:10:02:20 +0800] "GET /client/loadSavePath HTTP/1.1" 404 723
+127.0.0.1 - - [17/Oct/2023:10:03:24 +0800] "POST /client/noticeRun HTTP/1.1" 404 720
+127.0.0.1 - - [17/Oct/2023:10:04:04 +0800] "POST /ml_client/client/noticeExperiment HTTP/1.1" 200 66
+127.0.0.1 - - [17/Oct/2023:10:05:14 +0800] "GET /ml_client/client/loadSavePath HTTP/1.1" 200 74
+127.0.0.1 - - [17/Oct/2023:10:05:14 +0800] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [17/Oct/2023:10:05:28 +0800] "GET /ml_client/client/loadSavePath HTTP/1.1" 200 74
+127.0.0.1 - - [17/Oct/2023:10:05:35 +0800] "POST /ml_client/client/noticeRun HTTP/1.1" 200 66

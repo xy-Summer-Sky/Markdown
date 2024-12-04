@@ -1,0 +1,97 @@
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/9.0.62
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Mar 31 2022 14:34:15 UTC
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      9.0.62.0
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\jre
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_144-b01
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\conf\logging.properties
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dspring.profiles.active=windows
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\temp
+01-Nov-2024 23:39:30.770 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;F:\miniconda3\condabin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\libnvvp;F:\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;F:\Git\cmd;C:\Program Files\NVIDIA Corporation\Nsight Compute 2024.2.0\;C:\Program Files\Docker\Docker\resources\bin;F:\nvm;F:\nodejs;F:\Go\bin;F:\texlive\2024\bin\windows;C:\Program Files\Vagrant\bin;C:\Users\linhx\AppData\Local\pnpm;C:\Users\linhx\AppData\Local\Programs\Python\Launcher\;C:\Users\linhx\AppData\Local\Microsoft\WindowsApps;F:\Microsoft VS Code\bin;F:\nvm;F:\nodejs;C:\Users\linhx\go\bin;C:\Users\linhx\AppData\Roaming\Python\Scripts;F:\miniconda3\Scripts;F:\jdk\dragonwell-8.20.21\bin;;.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+01-Nov-2024 23:39:30.942 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-5560"]
+01-Nov-2024 23:39:30.958 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[308]毫秒内初始化
+01-Nov-2024 23:39:30.974 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+01-Nov-2024 23:39:30.974 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.62]
+01-Nov-2024 23:39:30.984 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\webapps\ml_client]
+01-Nov-2024 23:39:32.389 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+01-Nov-2024 23:39:35.668 警告 [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom 使用[SHA1PRNG]创建会话ID生成的SecureRandom实例花费了[1,440]毫秒。
+01-Nov-2024 23:39:35.684 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\webapps\ml_client]的部署已在[4,700]毫秒内完成
+01-Nov-2024 23:39:35.684 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-5560"]
+01-Nov-2024 23:39:35.684 信息 [main] org.apache.catalina.startup.Catalina.start [4730]毫秒后服务器启动
+01-Nov-2024 23:43:49.243 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/9.0.62
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Mar 31 2022 14:34:15 UTC
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      9.0.62.0
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\jre
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_144-b01
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\conf\logging.properties
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dspring.profiles.active=windows
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\temp
+01-Nov-2024 23:43:49.259 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;F:\miniconda3\condabin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\libnvvp;F:\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;F:\Git\cmd;C:\Program Files\NVIDIA Corporation\Nsight Compute 2024.2.0\;C:\Program Files\Docker\Docker\resources\bin;F:\nvm;F:\nodejs;F:\Go\bin;F:\texlive\2024\bin\windows;C:\Program Files\Vagrant\bin;C:\Users\linhx\AppData\Local\pnpm;C:\Users\linhx\AppData\Local\Programs\Python\Launcher\;C:\Users\linhx\AppData\Local\Microsoft\WindowsApps;F:\Microsoft VS Code\bin;F:\nvm;F:\nodejs;C:\Users\linhx\go\bin;C:\Users\linhx\AppData\Roaming\Python\Scripts;F:\miniconda3\Scripts;F:\jdk\dragonwell-8.20.21\bin;;.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+01-Nov-2024 23:43:49.389 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-5560"]
+01-Nov-2024 23:43:49.394 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[224]毫秒内初始化
+01-Nov-2024 23:43:49.401 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+01-Nov-2024 23:43:49.401 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.62]
+01-Nov-2024 23:43:49.401 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\webapps\ml_client]
+01-Nov-2024 23:43:50.692 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+01-Nov-2024 23:43:52.766 警告 [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom 使用[SHA1PRNG]创建会话ID生成的SecureRandom实例花费了[331]毫秒。
+01-Nov-2024 23:43:52.781 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\webapps\ml_client]的部署已在[3,380]毫秒内完成
+01-Nov-2024 23:43:52.781 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-5560"]
+01-Nov-2024 23:43:52.781 信息 [main] org.apache.catalina.startup.Catalina.start [3393]毫秒后服务器启动
+01-Nov-2024 23:50:58.256 信息 [Thread-4] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-5560"]
+01-Nov-2024 23:50:59.006 信息 [Thread-4] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+01-Nov-2024 23:50:59.132 信息 [Thread-4] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-5560"]
+01-Nov-2024 23:50:59.179 信息 [Thread-4] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-5560"]
+01-Nov-2024 23:51:14.808 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/9.0.62
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Mar 31 2022 14:34:15 UTC
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      9.0.62.0
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\jre
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_144-b01
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\conf\logging.properties
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dspring.profiles.active=windows
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\temp
+01-Nov-2024 23:51:14.824 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 在java.library.path:[C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;F:\miniconda3\condabin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\libnvvp;F:\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;F:\Git\cmd;C:\Program Files\NVIDIA Corporation\Nsight Compute 2024.2.0\;C:\Program Files\Docker\Docker\resources\bin;F:\nvm;F:\nodejs;F:\Go\bin;F:\texlive\2024\bin\windows;C:\Program Files\Vagrant\bin;C:\Users\linhx\AppData\Local\pnpm;C:\Users\linhx\AppData\Local\Programs\Python\Launcher\;C:\Users\linhx\AppData\Local\Microsoft\WindowsApps;F:\Microsoft VS Code\bin;F:\nvm;F:\nodejs;C:\Users\linhx\go\bin;C:\Users\linhx\AppData\Roaming\Python\Scripts;F:\miniconda3\Scripts;F:\jdk\dragonwell-8.20.21\bin;;.]上找不到基于APR的Apache Tomcat本机库，该库允许在生产环境中获得最佳性能
+01-Nov-2024 23:51:14.949 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-5560"]
+01-Nov-2024 23:51:14.949 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[225]毫秒内初始化
+01-Nov-2024 23:51:14.965 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+01-Nov-2024 23:51:14.965 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.62]
+01-Nov-2024 23:51:14.965 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\webapps\ml_client]
+01-Nov-2024 23:51:16.169 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+01-Nov-2024 23:51:18.079 警告 [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom 使用[SHA1PRNG]创建会话ID生成的SecureRandom实例花费了[220]毫秒。
+01-Nov-2024 23:51:18.079 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows\apache-tomcat-9.0.62-windows\webapps\ml_client]的部署已在[3,114]毫秒内完成
+01-Nov-2024 23:51:18.094 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-5560"]
+01-Nov-2024 23:51:18.094 信息 [main] org.apache.catalina.startup.Catalina.start [3137]毫秒后服务器启动

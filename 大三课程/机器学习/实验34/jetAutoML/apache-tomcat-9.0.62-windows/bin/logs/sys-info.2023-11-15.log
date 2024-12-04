@@ -1,0 +1,4 @@
+15:43:31.399 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on DESKTOP-0RFQU3T with PID 41136 (D:\5_项目资料\华工实验室\客户端\windows\apache-tomcat-9.0.62-windows\webapps\ml_client\WEB-INF\classes started by jiangxianneng in D:\5_项目资料\华工实验室\客户端\windows\apache-tomcat-9.0.62-windows\bin)
+15:43:31.415 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,655] - The following profiles are active: windows
+15:43:33.329 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarted,61] - Started MySpringBootServletInitializer in 2.738 seconds (JVM running for 10.618)
+15:43:33.331 [main] INFO  c.k.m.c.c.InitStartRunner - [run,47] - ------------------------ InitStartRunner init start ------------------------
