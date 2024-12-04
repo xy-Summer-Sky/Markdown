@@ -1,0 +1,30 @@
+spring:
+  main:
+    web-application-type: reactive
+  application:
+    name: ocr-gateway
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/nacos
+    username: nacos
+    password: nacos
+  cloud:
+    nacos:
+      discovery:
+        username: nacos
+        password: nacos
+        server-addr: ${spring.cloud.nacos.server-addr}
+      config:
+        server-addr: 127.0.0.1:8848
+        file-extension: yml
+      server-addr: 127.0.0.1:8848
+    gateway:
+      routes:
+        - id: user-service-route
+          uri: lb://user-service
+          predicates:
+            - Path=/user/**
+        - id: ocr-service-route
+          uri: lb://ocr-service
+          predicates:
+            - Path=/ocr/**

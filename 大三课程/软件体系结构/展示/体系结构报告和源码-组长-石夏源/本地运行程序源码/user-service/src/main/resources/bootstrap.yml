@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: user-service
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/nacos
+    username: nacos
+    password: nacos
+
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      discovery:
+        server-addr: http://127.0.0.1:8848
+        username: nacos
+        password: nacos
+      config:
+        server-addr: http://127.0.0.1:8848
+        enabled: true
+        file-extension: yml
+        group: ocr_back
+
