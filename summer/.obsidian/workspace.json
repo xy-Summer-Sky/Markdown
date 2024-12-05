@@ -11,24 +11,12 @@
             "id": "861f050d0611b455",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "复习规划.md",
-                "kanbanViewState": {
-                  "kanban-plugin": [
-                    "basic"
-                  ],
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "项目管理/课件/Chapter 13 Project Stakeholder Management.pdf"
               },
-              "icon": "lucide-trello",
-              "title": "复习规划"
+              "icon": "lucide-file-text",
+              "title": "Chapter 13 Project Stakeholder Management"
             }
           }
         ]
@@ -90,7 +78,7 @@
       {
         "id": "cb4691276eea040b",
         "type": "tabs",
-        "dimension": 50.401606425702816,
+        "dimension": 50.40160642570281,
         "children": [
           {
             "id": "82101b27d4c231c5",
@@ -98,10 +86,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "复习规划.md"
+                "file": "项目管理/课件/Chapter 13 Project Stakeholder Management.pdf"
               },
               "icon": "lucide-list",
-              "title": "复习规划 的大纲"
+              "title": "Chapter 13 Project Stakeholder Management 的大纲"
             }
           }
         ]
@@ -199,6 +187,14 @@
   },
   "active": "861f050d0611b455",
   "lastOpenFiles": [
+    "项目管理/课件/Chapter 6 Project Time Management-2.pdf",
+    "项目管理/课件/Chapter 5 Project Scope Management.pdf",
+    "项目管理/课件/Chapter 4 Project Integration Management-2.pdf",
+    "项目管理/课件/Chapter 3 The Project Management Process Groups A Case Study-1.pdf",
+    "项目管理/课件/动态规划与人力资源成本核算.pdf",
+    "项目管理/课件/动态规划-ppt.pdf",
+    "体系结构/体系结构知识点罗列/assets/0fbb7eddabccdeaf5daf9ea051b0f27.jpg",
+    "复习规划.md",
     "创建链接.md",
     "体系结构/体系结构知识点罗列/体系结构知识点罗列.md",
     "体系结构/体系结构课件/Chapter 1-zikun.pdf",
@@ -207,11 +203,6 @@
     "体系结构/软件构架实践英文第三版.pdf",
     "体系结构/体系结构课件/Chapter 13-14.pdf",
     "体系结构/体系结构课件/Chapter 15-17^J19^J21.pdf",
-    "体系结构/体系结构课件/Cost_Aware_Service_Placement_and_Load_Dispatching_in_Mobile_Cloud_Systems.pdf",
-    "体系结构/体系结构课件/Chapter 2-4-zikun.pdf",
-    "项目管理/课件/Chapter 13 Project Stakeholder Management.pdf",
-    "项目管理/课件/动态规划-ppt.pdf",
-    "项目管理/课件/动态规划与人力资源成本核算.pdf",
     "2024/密码账户.md",
     "2024/12/2024-12-04.md",
     "体系结构/体系结构知识点罗列/assets/72cb841d7c25fd6ce1df1d8e702b6e8.jpg",
@@ -222,7 +213,6 @@
     "体系结构/体系结构知识点罗列/assets/b169e2f6e85ba44abecc87e3933c36d.jpg",
     "体系结构/体系结构总结.md",
     "PM/README.md",
-    "体系结构/体系结构知识点罗列/assets/0fbb7eddabccdeaf5daf9ea051b0f27.jpg",
     "体系结构知识点罗列/体系结构知识点罗列.md",
     "体系结构总结.md",
     "2024/2024/12/2024-12-04.md",
@@ -230,7 +220,6 @@
     "数据库/dbms架构图.canvas",
     "数据库/未命名.md",
     "欢迎.md",
-    "复习规划.md",
     "配置.md",
     "不太好.md"
   ]
