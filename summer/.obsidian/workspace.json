@@ -11,12 +11,14 @@
             "id": "861f050d0611b455",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "项目管理/课件/Chapter 13 Project Stakeholder Management.pdf"
+                "file": "体系结构/体系结构知识点罗列/体系结构知识点罗列.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Chapter 13 Project Stakeholder Management"
+              "icon": "lucide-file",
+              "title": "体系结构知识点罗列"
             }
           }
         ]
@@ -86,10 +88,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目管理/课件/Chapter 13 Project Stakeholder Management.pdf"
+                "file": "体系结构/体系结构知识点罗列/体系结构知识点罗列.md"
               },
               "icon": "lucide-list",
-              "title": "Chapter 13 Project Stakeholder Management 的大纲"
+              "title": "体系结构知识点罗列 的大纲"
             }
           }
         ]
@@ -185,19 +187,19 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "861f050d0611b455",
+  "active": "87823661912e0ddd",
   "lastOpenFiles": [
-    "项目管理课件/软件项目复杂度描述.pptx",
-    "项目管理课件/软件项目动态规划方法.pdf",
-    "项目管理课件/人力资源的工期与成本估算.pptx",
-    "项目管理课件/动态规划与人力资源成本核算.ppt",
-    "项目管理课件/动态规划-ppt.ppt",
-    "项目管理课件/Chapter 13 Project Stakeholder Management.pptx",
-    "项目管理课件/Chapter 12 Project Procurement Management-1.pptx",
-    "项目管理课件/Chapter 11 Project Risk Management.pptx",
-    "项目管理课件/Chapter 10 Project Communications Management.pptx",
-    "项目管理课件/Chapter 9 Project Human Resource Management.pptx",
-    "项目管理课件/Chapter 8 Project Quality Management-2.pptx",
+    "项目管理/课件/Chapter 1 Introduction to Project Management-new.pdf",
+    "项目管理/课件/Chapter 13 Project Stakeholder Management.pdf",
+    "项目管理/ppt/Chapter 3 The Project Management Process Groups A Case Study-1.pptx",
+    "项目管理/ppt/Chapter 2 The Project Management and Information Technology Context-new1.pptx",
+    "项目管理/ppt/Chapter 1 Introduction to Project Management-new.pptx",
+    "项目管理/ppt/软件项目复杂度描述.pptx",
+    "项目管理/ppt/软件项目动态规划方法.pdf",
+    "项目管理/ppt/人力资源的工期与成本估算.pptx",
+    "项目管理/ppt/动态规划与人力资源成本核算.ppt",
+    "项目管理/ppt",
+    "项目管理/pt",
     "体系结构/体系结构知识点罗列/assets/0fbb7eddabccdeaf5daf9ea051b0f27.jpg",
     "复习规划.md",
     "创建链接.md",

@@ -1,0 +1,98 @@
+20:11:09.269 [Catalina-utility-1] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on DESKTOP-2J6T757 with PID 17804 (D:\apache-tomcat-9.0.62\webapps\ml_client-0.0.1-SNAPSHOT\WEB-INF\classes started by jiangxianneng in D:\apache-tomcat-9.0.62\bin)
+20:11:09.279 [Catalina-utility-1] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+20:11:11.619 [Catalina-utility-1] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarted,61] - Started MySpringBootServletInitializer in 3.241 seconds (JVM running for 290.764)
+20:11:49.607 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on DESKTOP-2J6T757 with PID 19948 (D:\apache-tomcat-9.0.62\webapps\ml_client\WEB-INF\classes started by jiangxianneng in D:\apache-tomcat-9.0.62\bin)
+20:11:49.614 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+20:11:51.773 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarted,61] - Started MySpringBootServletInitializer in 2.982 seconds (JVM running for 7.353)
+20:12:00.016 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:12:00.018 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:13:00.009 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:13:00.014 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:14:00.016 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:14:00.021 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:15:00.014 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:15:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:16:00.004 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:16:00.005 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:17:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:17:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:18:00.005 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:18:00.007 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:19:00.002 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:19:00.002 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:20:00.014 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:20:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:21:00.003 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:21:00.006 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:22:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:22:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:23:00.002 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:23:00.003 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:24:00.014 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:24:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:25:00.007 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:25:00.008 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:26:00.008 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:26:00.009 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:27:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:27:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:28:00.012 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:28:00.013 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:29:00.013 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:29:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:30:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:30:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:31:00.012 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:31:00.013 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:32:00.002 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:32:00.002 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:33:00.010 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:33:00.012 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:34:00.004 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:34:00.005 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:35:00.008 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:35:00.008 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:36:00.011 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:36:00.011 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:37:00.002 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:37:00.003 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:38:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:38:00.003 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:39:00.010 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:39:00.012 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:40:00.004 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:40:00.007 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:41:00.008 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:41:00.009 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:42:00.013 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:42:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:43:00.003 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:43:00.004 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:44:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:44:00.002 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:45:00.014 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:45:00.014 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:46:00.005 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:46:00.005 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:47:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:47:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:48:00.006 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:48:00.007 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:49:00.013 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+20:49:00.014 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+20:59:16.202 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on DESKTOP-2J6T757 with PID 1924 (D:\apache-tomcat-9.0.62\webapps\ml_client\WEB-INF\classes started by jiangxianneng in D:\apache-tomcat-9.0.62\bin)
+20:59:16.208 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+20:59:18.127 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarted,61] - Started MySpringBootServletInitializer in 2.617 seconds (JVM running for 5.662)
+20:59:31.125 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on DESKTOP-2J6T757 with PID 25580 (D:\apache-tomcat-9.0.62\webapps\ml_client\WEB-INF\classes started by jiangxianneng in D:\apache-tomcat-9.0.62\bin)
+20:59:31.155 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+20:59:33.295 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarted,61] - Started MySpringBootServletInitializer in 3.144 seconds (JVM running for 6.548)
+21:00:00.014 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+21:00:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+21:01:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+21:01:00.003 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+21:02:00.003 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+21:02:00.004 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+21:03:00.009 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+21:03:00.011 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+21:04:00.013 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+21:04:00.014 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行

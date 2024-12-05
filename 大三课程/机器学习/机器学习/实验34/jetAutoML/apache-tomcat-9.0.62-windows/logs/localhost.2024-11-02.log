@@ -1,0 +1,35 @@
+02-Nov-2024 10:46:32.390 信息 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+02-Nov-2024 10:46:33.562 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+02-Nov-2024 10:46:55.952 信息 [http-nio-5560-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+02-Nov-2024 11:13:51.906 信息 [Thread-4] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+02-Nov-2024 11:13:51.906 信息 [Thread-4] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+02-Nov-2024 11:15:50.666 信息 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+02-Nov-2024 11:15:52.059 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+02-Nov-2024 11:16:04.254 信息 [http-nio-5560-exec-3] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+02-Nov-2024 11:18:01.886 信息 [Thread-4] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+02-Nov-2024 11:18:01.886 信息 [Thread-4] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+02-Nov-2024 11:26:07.053 信息 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+02-Nov-2024 11:26:08.422 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+02-Nov-2024 11:26:23.609 信息 [http-nio-5560-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+02-Nov-2024 11:28:18.256 信息 [Thread-4] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+02-Nov-2024 11:28:18.257 信息 [Thread-4] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+02-Nov-2024 11:31:00.492 信息 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+02-Nov-2024 11:31:03.824 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+02-Nov-2024 11:31:15.327 信息 [http-nio-5560-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+02-Nov-2024 11:32:29.556 信息 [Thread-4] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+02-Nov-2024 11:32:29.556 信息 [Thread-4] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+02-Nov-2024 11:41:37.110 信息 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+02-Nov-2024 11:41:38.443 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+02-Nov-2024 11:41:49.300 信息 [http-nio-5560-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+02-Nov-2024 11:54:55.711 信息 [Thread-4] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+02-Nov-2024 11:54:55.713 信息 [Thread-4] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+02-Nov-2024 13:33:46.945 信息 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+02-Nov-2024 13:33:48.480 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+02-Nov-2024 13:37:13.094 信息 [http-nio-5560-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+02-Nov-2024 13:46:53.229 信息 [Thread-4] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+02-Nov-2024 13:46:53.229 信息 [Thread-4] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+02-Nov-2024 13:47:17.675 信息 [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+02-Nov-2024 13:47:19.109 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+02-Nov-2024 13:47:31.351 信息 [http-nio-5560-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+02-Nov-2024 13:52:50.064 信息 [Thread-4] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+02-Nov-2024 13:52:50.064 信息 [Thread-4] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext

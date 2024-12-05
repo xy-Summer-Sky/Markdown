@@ -1,0 +1,84 @@
+13:57:44.171 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on DESKTOP-0RFQU3T with PID 12008 (D:\data\apache-tomcat-9.0.62\webapps\ml_client\WEB-INF\classes started by jiangxianneng in D:\data\apache-tomcat-9.0.62\bin)
+13:57:44.181 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,655] - The following profiles are active: windows
+13:57:46.324 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarted,61] - Started MySpringBootServletInitializer in 2.997 seconds (JVM running for 11.683)
+13:57:46.327 [main] INFO  c.k.m.c.c.InitStartRunner - [run,47] - ------------------------ InitStartRunner init start ------------------------
+13:58:00.006 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [serverPerformanceIndicator,76] - 服务器性能指标检查任务开始执行
+13:58:00.008 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [serverPerformanceIndicator,299] - ---------------------server performance indicator ---------------------
+13:58:00.017 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+13:58:00.018 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [errorFileCheck,67] - 错误文件监测任务开始执行
+13:58:00.042 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+13:59:00.002 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [serverPerformanceIndicator,76] - 服务器性能指标检查任务开始执行
+13:59:00.004 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [serverPerformanceIndicator,299] - ---------------------server performance indicator ---------------------
+13:59:00.006 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+13:59:00.007 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+13:59:00.007 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [errorFileCheck,67] - 错误文件监测任务开始执行
+14:00:00.010 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [errorFileCheck,67] - 错误文件监测任务开始执行
+14:00:00.021 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+14:00:00.022 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [serverPerformanceIndicator,76] - 服务器性能指标检查任务开始执行
+14:00:00.022 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [serverPerformanceIndicator,299] - ---------------------server performance indicator ---------------------
+14:00:00.025 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+14:01:00.001 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+14:01:00.002 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [errorFileCheck,67] - 错误文件监测任务开始执行
+14:01:00.013 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+14:01:00.014 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [serverPerformanceIndicator,76] - 服务器性能指标检查任务开始执行
+14:01:00.015 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [serverPerformanceIndicator,299] - ---------------------server performance indicator ---------------------
+14:02:00.002 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+14:02:00.003 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [serverPerformanceIndicator,76] - 服务器性能指标检查任务开始执行
+14:02:00.004 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [serverPerformanceIndicator,299] - ---------------------server performance indicator ---------------------
+14:02:00.007 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [errorFileCheck,67] - 错误文件监测任务开始执行
+14:02:00.017 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+14:03:00.011 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+14:03:00.012 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+14:03:00.012 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [errorFileCheck,67] - 错误文件监测任务开始执行
+14:03:00.018 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [serverPerformanceIndicator,76] - 服务器性能指标检查任务开始执行
+14:03:00.019 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [serverPerformanceIndicator,299] - ---------------------server performance indicator ---------------------
+14:04:00.003 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [serverPerformanceIndicator,76] - 服务器性能指标检查任务开始执行
+14:04:00.004 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [serverPerformanceIndicator,299] - ---------------------server performance indicator ---------------------
+14:04:00.006 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [errorFileCheck,67] - 错误文件监测任务开始执行
+14:04:00.018 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+14:04:00.018 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+14:05:00.003 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [errorFileCheck,67] - 错误文件监测任务开始执行
+14:05:00.014 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+14:05:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+14:05:00.016 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [serverPerformanceIndicator,76] - 服务器性能指标检查任务开始执行
+14:05:00.017 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [serverPerformanceIndicator,299] - ---------------------server performance indicator ---------------------
+14:06:00.007 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [errorFileCheck,67] - 错误文件监测任务开始执行
+14:06:00.018 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+14:06:00.019 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [serverPerformanceIndicator,76] - 服务器性能指标检查任务开始执行
+14:06:00.020 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [serverPerformanceIndicator,299] - ---------------------server performance indicator ---------------------
+14:06:00.023 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+14:07:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+14:07:00.016 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+14:07:00.019 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [errorFileCheck,67] - 错误文件监测任务开始执行
+14:07:00.031 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [serverPerformanceIndicator,76] - 服务器性能指标检查任务开始执行
+14:07:00.032 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [serverPerformanceIndicator,299] - ---------------------server performance indicator ---------------------
+14:08:00.010 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [errorFileCheck,67] - 错误文件监测任务开始执行
+14:08:00.020 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [serverPerformanceIndicator,76] - 服务器性能指标检查任务开始执行
+14:08:00.021 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [serverPerformanceIndicator,299] - ---------------------server performance indicator ---------------------
+14:08:00.025 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+14:08:00.027 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+14:09:00.012 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+14:09:00.013 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [serverPerformanceIndicator,76] - 服务器性能指标检查任务开始执行
+14:09:00.014 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [serverPerformanceIndicator,299] - ---------------------server performance indicator ---------------------
+14:09:00.017 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+14:09:00.018 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [errorFileCheck,67] - 错误文件监测任务开始执行
+14:10:00.005 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+14:10:00.006 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+14:10:00.010 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [serverPerformanceIndicator,76] - 服务器性能指标检查任务开始执行
+14:10:00.011 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [serverPerformanceIndicator,299] - ---------------------server performance indicator ---------------------
+14:10:00.014 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [errorFileCheck,67] - 错误文件监测任务开始执行
+14:11:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+14:11:00.016 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [serverPerformanceIndicator,76] - 服务器性能指标检查任务开始执行
+14:11:00.019 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [serverPerformanceIndicator,299] - ---------------------server performance indicator ---------------------
+14:11:00.023 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+14:11:00.023 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [errorFileCheck,67] - 错误文件监测任务开始执行
+14:12:00.000 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [serverPerformanceIndicator,76] - 服务器性能指标检查任务开始执行
+14:12:00.001 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [serverPerformanceIndicator,299] - ---------------------server performance indicator ---------------------
+14:12:00.004 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+14:12:00.004 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+14:12:00.005 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [errorFileCheck,67] - 错误文件监测任务开始执行
+14:13:00.014 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskRun,34] - 运行任务缓存为空，不执行
+14:13:00.015 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [taskExperiment,52] - 实验缓存为空，不执行任务
+14:13:00.026 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [serverPerformanceIndicator,76] - 服务器性能指标检查任务开始执行
+14:13:00.026 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [serverPerformanceIndicator,299] - ---------------------server performance indicator ---------------------
+14:13:00.030 [scheduling-1] INFO  c.k.m.c.s.ScheduleTask - [errorFileCheck,67] - 错误文件监测任务开始执行
