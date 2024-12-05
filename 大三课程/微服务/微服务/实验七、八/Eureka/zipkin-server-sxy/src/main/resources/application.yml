@@ -1,0 +1,15 @@
+server:
+  port: 9041
+spring:
+  application:
+    name: zipkin-server-sxy
+
+  main:
+    allow-bean-definition-overriding: true
+management:
+  metrics:
+    web:
+      server:
+        request:
+          autotime:
+            enabled: false
