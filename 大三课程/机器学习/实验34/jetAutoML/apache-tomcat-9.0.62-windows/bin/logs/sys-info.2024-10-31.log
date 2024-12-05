@@ -1,0 +1,129 @@
+09:55:03.011 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on LAPTOP-MAVKL4BR with PID 255984 (E:\xuchenhao\学习资料-研究生\研一上\机器学习-谭\apache-tomcat-9.0.62-windows\webapps\ml_client\WEB-INF\classes started by xch in E:\xuchenhao\学习资料-研究生\研一上\机器学习-谭\apache-tomcat-9.0.62-windows\bin)
+09:55:03.016 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,655] - The following profiles are active: windows
+09:55:05.461 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarted,61] - Started MySpringBootServletInitializer in 3.564 seconds (JVM running for 7.946)
+09:55:15.845 [http-nio-5560-exec-2] INFO  c.k.m.c.c.ClientController - [noticeExperiment,64] - 接收到实验通知:{"experimentId":"970725959994155","status":0}
+09:55:17.239 [http-nio-5560-exec-5] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"970725959994155","runName":"run-0","status":0}
+09:55:17.277 [http-nio-5560-exec-3] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"970725959994155","runName":"run-0","status":1}
+09:55:17.285 [http-nio-5560-exec-8] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"970725959994155","runName":"run-1","status":0}
+09:55:17.295 [http-nio-5560-exec-10] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"970725959994155","runName":"run-1","status":1}
+09:55:17.301 [http-nio-5560-exec-2] INFO  c.k.m.c.c.ClientController - [noticeExperiment,64] - 接收到实验通知:{"experimentId":"970725959994155","status":1}
+09:56:00.020 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"970725959994155","experimentName":"MNIST TEST-20241031095514","projectId":"1372","repositoryId":"4f210badb9df4252afbcf88b81804ea6","runName":"run-0","status":0,"type":2,"userToken":"13k7qkqyq6s67z9ziob6cqch"}
+09:56:00.481 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+09:56:00.519 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"970725959994155","experimentName":"MNIST TEST-20241031095514","projectId":"1372","repositoryId":"4f210badb9df4252afbcf88b81804ea6","runName":"run-0","status":0,"type":3,"userToken":"13k7qkqyq6s67z9ziob6cqch"}
+09:56:00.823 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+09:56:00.848 [threadPoolTaskExecutor-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"970725959994155","experimentName":"MNIST TEST-20241031095514","projectId":"1372","repositoryId":"4f210badb9df4252afbcf88b81804ea6","runName":"run-1","status":1,"type":1,"userToken":"13k7qkqyq6s67z9ziob6cqch"}
+09:56:00.863 [threadPoolTaskExecutor-2] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"970725959994155","experimentName":"MNIST TEST-20241031095514","projectId":"1372","repositoryId":"4f210badb9df4252afbcf88b81804ea6","runName":"run-0","status":1,"type":1,"userToken":"13k7qkqyq6s67z9ziob6cqch"}
+09:56:00.910 [threadPoolTaskExecutor-2] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+09:56:01.326 [threadPoolTaskExecutor-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+09:57:00.629 [threadPoolTaskExecutor-4] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"970725959994155","experimentName":"MNIST TEST-20241031095514","projectId":"1372","repositoryId":"4f210badb9df4252afbcf88b81804ea6","status":1,"type":0,"userToken":"13k7qkqyq6s67z9ziob6cqch"}
+09:58:00.661 [threadPoolTaskExecutor-5] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"970725959994155","experimentName":"MNIST TEST-20241031095514","projectId":"1372","repositoryId":"4f210badb9df4252afbcf88b81804ea6","status":1,"type":0,"userToken":"13k7qkqyq6s67z9ziob6cqch"}
+09:59:00.648 [threadPoolTaskExecutor-6] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"970725959994155","experimentName":"MNIST TEST-20241031095514","projectId":"1372","repositoryId":"4f210badb9df4252afbcf88b81804ea6","status":1,"type":0,"userToken":"13k7qkqyq6s67z9ziob6cqch"}
+09:59:01.348 [threadPoolTaskExecutor-4] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+09:59:01.358 [threadPoolTaskExecutor-4] INFO  c.k.m.c.f.FileProcess - [push,214] - 推送失败:
+com.alibaba.fastjson.JSONException: illegal fieldName input<, offset 1, character <, line 1, column 2, fastjson-version 2.0.19 <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+	at com.alibaba.fastjson.JSON.parseObject(JSON.java:510)
+	at com.kingoint.ml.client.file.FileProcess.push(FileProcess.java:209)
+	at com.kingoint.ml.client.file.FileProcess.lambda$scanningExperimentDir$3(FileProcess.java:146)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.alibaba.fastjson2.JSONException: illegal fieldName input<, offset 1, character <, line 1, column 2, fastjson-version 2.0.19 <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+	at com.alibaba.fastjson2.JSONReaderUTF16.readFieldNameHashCode(JSONReaderUTF16.java:1045)
+	at com.alibaba.fastjson2.reader.ObjectReader_1.readObject(Unknown Source)
+	at com.alibaba.fastjson.JSON.parseObject(JSON.java:500)
+	... 5 common frames omitted
+09:59:12.714 [threadPoolTaskExecutor-5] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+10:00:05.608 [threadPoolTaskExecutor-6] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+10:05:58.532 [http-nio-5560-exec-3] INFO  c.k.m.c.c.ClientController - [noticeExperiment,64] - 接收到实验通知:{"experimentId":"256461026967296","status":0}
+10:05:59.849 [http-nio-5560-exec-8] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"256461026967296","runName":"run-0","status":0}
+10:05:59.878 [http-nio-5560-exec-10] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"256461026967296","runName":"run-0","status":1}
+10:05:59.891 [http-nio-5560-exec-2] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"256461026967296","runName":"run-1","status":0}
+10:05:59.903 [http-nio-5560-exec-5] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"256461026967296","runName":"run-1","status":1}
+10:05:59.909 [http-nio-5560-exec-6] INFO  c.k.m.c.c.ClientController - [noticeExperiment,64] - 接收到实验通知:{"experimentId":"256461026967296","status":1}
+10:06:00.024 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"256461026967296","experimentName":"MNIST TEST-20241031100558","projectId":"1372","repositoryId":"4f210badb9df4252afbcf88b81804ea6","runName":"run-0","status":0,"type":2,"userToken":"13k7qkqyq6s67z9ziob6cqch"}
+10:06:00.061 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+10:06:00.064 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"256461026967296","experimentName":"MNIST TEST-20241031100558","projectId":"1372","repositoryId":"4f210badb9df4252afbcf88b81804ea6","runName":"run-0","status":0,"type":3,"userToken":"13k7qkqyq6s67z9ziob6cqch"}
+10:06:00.082 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+10:06:00.117 [threadPoolTaskExecutor-9] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"256461026967296","experimentName":"MNIST TEST-20241031100558","projectId":"1372","repositoryId":"4f210badb9df4252afbcf88b81804ea6","runName":"run-1","status":1,"type":1,"userToken":"13k7qkqyq6s67z9ziob6cqch"}
+10:06:00.129 [threadPoolTaskExecutor-10] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"256461026967296","experimentName":"MNIST TEST-20241031100558","projectId":"1372","repositoryId":"4f210badb9df4252afbcf88b81804ea6","runName":"run-0","status":1,"type":1,"userToken":"13k7qkqyq6s67z9ziob6cqch"}
+10:06:00.161 [threadPoolTaskExecutor-9] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+10:06:00.162 [threadPoolTaskExecutor-10] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+10:07:00.661 [threadPoolTaskExecutor-11] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"256461026967296","experimentName":"MNIST TEST-20241031100558","projectId":"1372","repositoryId":"4f210badb9df4252afbcf88b81804ea6","status":1,"type":0,"userToken":"13k7qkqyq6s67z9ziob6cqch"}
+10:08:00.665 [threadPoolTaskExecutor-3] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"256461026967296","experimentName":"MNIST TEST-20241031100558","projectId":"1372","repositoryId":"4f210badb9df4252afbcf88b81804ea6","status":1,"type":0,"userToken":"13k7qkqyq6s67z9ziob6cqch"}
+10:12:40.113 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on DESKTOP-OE2SO9G with PID 12492 (C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows-1\apache-tomcat-9.0.62-windows\webapps\ml_client\WEB-INF\classes started by linhx in C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows-1\apache-tomcat-9.0.62-windows\bin)
+10:12:40.116 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,655] - The following profiles are active: windows
+10:12:41.073 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarted,61] - Started MySpringBootServletInitializer in 1.352 seconds (JVM running for 3.066)
+10:13:40.863 [http-nio-5560-exec-1] INFO  c.k.m.c.c.ClientController - [noticeExperiment,64] - 接收到实验通知:{"experimentId":"411301228097628","status":0}
+10:13:42.542 [http-nio-5560-exec-4] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"411301228097628","runName":"run-0","status":0}
+10:13:42.572 [http-nio-5560-exec-3] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"411301228097628","runName":"run-0","status":1}
+10:13:42.581 [http-nio-5560-exec-5] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"411301228097628","runName":"run-1","status":0}
+10:13:42.596 [http-nio-5560-exec-6] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"411301228097628","runName":"run-1","status":1}
+10:13:42.606 [http-nio-5560-exec-7] INFO  c.k.m.c.c.ClientController - [noticeExperiment,64] - 接收到实验通知:{"experimentId":"411301228097628","status":1}
+10:14:00.057 [threadPoolTaskExecutor-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"实验开始时间：2024-10-31 10:13:39","experimentId":"411301228097628","experimentName":"MNIST TEST-20241031101339","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-1","status":1,"type":1,"userToken":"lfli3pdewm2ogtx411vl2mst"}
+10:14:00.064 [threadPoolTaskExecutor-2] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"实验开始时间：2024-10-31 10:13:39","experimentId":"411301228097628","experimentName":"MNIST TEST-20241031101339","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":1,"type":1,"userToken":"lfli3pdewm2ogtx411vl2mst"}
+10:14:00.082 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"实验开始时间：2024-10-31 10:13:39","experimentId":"411301228097628","experimentName":"MNIST TEST-20241031101339","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":0,"type":2,"userToken":"lfli3pdewm2ogtx411vl2mst"}
+10:14:00.325 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+10:14:00.325 [threadPoolTaskExecutor-2] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+10:14:00.326 [threadPoolTaskExecutor-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+10:14:00.414 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"实验开始时间：2024-10-31 10:13:39","experimentId":"411301228097628","experimentName":"MNIST TEST-20241031101339","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":0,"type":3,"userToken":"lfli3pdewm2ogtx411vl2mst"}
+10:14:00.442 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+10:15:00.039 [threadPoolTaskExecutor-4] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"实验开始时间：2024-10-31 10:13:39","experimentId":"411301228097628","experimentName":"MNIST TEST-20241031101339","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","status":1,"type":0,"userToken":"lfli3pdewm2ogtx411vl2mst"}
+10:15:04.931 [threadPoolTaskExecutor-4] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+10:17:47.956 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on DESKTOP-OE2SO9G with PID 3360 (C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows-1\apache-tomcat-9.0.62-windows\webapps\ml_client\WEB-INF\classes started by linhx in C:\Users\linhx\Desktop\apache-tomcat-9.0.62-windows-1\apache-tomcat-9.0.62-windows\bin)
+10:17:47.959 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,655] - The following profiles are active: windows
+10:17:48.905 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarted,61] - Started MySpringBootServletInitializer in 1.333 seconds (JVM running for 3.062)
+10:18:08.276 [http-nio-5560-exec-1] INFO  c.k.m.c.c.ClientController - [noticeExperiment,64] - 接收到实验通知:{"experimentId":"572803546241340","status":0}
+10:18:11.948 [http-nio-5560-exec-6] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"572803546241340","runName":"run-0","status":0}
+10:18:12.200 [http-nio-5560-exec-5] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"572803546241340","runName":"run-0","status":1}
+10:18:12.218 [http-nio-5560-exec-7] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"572803546241340","runName":"run-1","status":0}
+10:18:12.243 [http-nio-5560-exec-9] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"572803546241340","runName":"run-1","status":1}
+10:18:12.251 [http-nio-5560-exec-10] INFO  c.k.m.c.c.ClientController - [noticeExperiment,64] - 接收到实验通知:{"experimentId":"572803546241340","status":1}
+10:19:00.033 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"实验开始时间：2024-10-31 10:18:06","experimentId":"572803546241340","experimentName":"MNIST TEST-20241031101806","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":0,"type":2,"userToken":"lfli3pdewm2ogtx411vl2mst"}
+10:19:00.273 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+10:19:00.362 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"实验开始时间：2024-10-31 10:18:06","experimentId":"572803546241340","experimentName":"MNIST TEST-20241031101806","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":0,"type":3,"userToken":"lfli3pdewm2ogtx411vl2mst"}
+10:19:00.408 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+10:19:00.451 [threadPoolTaskExecutor-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"实验开始时间：2024-10-31 10:18:06","experimentId":"572803546241340","experimentName":"MNIST TEST-20241031101806","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-1","status":1,"type":1,"userToken":"lfli3pdewm2ogtx411vl2mst"}
+10:19:00.481 [threadPoolTaskExecutor-2] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"实验开始时间：2024-10-31 10:18:06","experimentId":"572803546241340","experimentName":"MNIST TEST-20241031101806","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":1,"type":1,"userToken":"lfli3pdewm2ogtx411vl2mst"}
+10:19:00.507 [threadPoolTaskExecutor-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+10:19:00.525 [threadPoolTaskExecutor-2] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+10:20:00.064 [threadPoolTaskExecutor-4] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"实验开始时间：2024-10-31 10:18:06","experimentId":"572803546241340","experimentName":"MNIST TEST-20241031101806","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","status":1,"type":0,"userToken":"lfli3pdewm2ogtx411vl2mst"}
+10:20:06.721 [threadPoolTaskExecutor-4] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}

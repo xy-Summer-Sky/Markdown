@@ -1,0 +1,46 @@
+server:
+  port: 12000
+spring:
+  application:
+    name: myshop-config
+  profiles:
+    active: subversion
+
+  rabbitmq:
+    host: 47.84.72.144 # rabbitmq所在虚机地址
+    username: guest
+    password: guest
+
+
+  cloud:
+    config:
+      server:
+        svn:
+          uri: https://summer/svn/springcloud
+          username: summer
+          password: sxy2020##
+          default-label: trunk
+          search-paths: trunk
+management:
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh
+#        git:
+#          uri: https://github.com/xy-Summer-Sky/springcloud.git
+#          username: xy-Summer-Sky
+#          password: sxy2020@#
+#          default-label: main
+
+  endpoint:
+    bus-refresh:
+      enabled: true
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://127.0.0.1:8888/eureka
+  instance:
+    prefer-ip-address: true

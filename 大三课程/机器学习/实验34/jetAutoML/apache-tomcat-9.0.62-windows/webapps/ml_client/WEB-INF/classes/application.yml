@@ -1,0 +1,17 @@
+server:
+  port: 5560
+  servlet:
+    context-path: /ml_client
+logging:
+  level:
+    com.kingpoint: debug
+    org.springframework: warn
+spring:
+  profiles:
+    active: windows
+jml:
+  server:
+    ##服务端远程地址
+#    url: http://192.168.30.143:8333/process-api/process-experiment/upload
+#    url: http://localhost:8108/process-experiment/upload
+    url: http://202.38.200.182:8333/process-api/process-experiment/upload

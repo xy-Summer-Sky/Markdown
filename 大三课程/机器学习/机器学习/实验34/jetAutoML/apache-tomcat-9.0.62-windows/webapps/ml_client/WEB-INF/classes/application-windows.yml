@@ -1,5 +1,0 @@
-ai:
-  result:
-    temp: C:/tmp/ml_client
-    ##windows 训练结果存储路径
-    path: C:/jml_ai_result

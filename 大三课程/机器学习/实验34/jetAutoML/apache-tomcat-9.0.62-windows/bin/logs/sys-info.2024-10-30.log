@@ -1,0 +1,840 @@
+20:29:09.687 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on LAPTOP-MAVKL4BR with PID 252444 (E:\xuchenhao\学习资料-研究生\研一上\机器学习-谭\apache-tomcat-9.0.62-windows\webapps\ml_client\WEB-INF\classes started by xch in E:\xuchenhao\学习资料-研究生\研一上\机器学习-谭\apache-tomcat-9.0.62-windows\bin)
+20:29:09.702 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,655] - The following profiles are active: windows
+20:31:55.736 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarting,55] - Starting MySpringBootServletInitializer v0.0.1-SNAPSHOT on LAPTOP-MAVKL4BR with PID 241892 (E:\xuchenhao\学习资料-研究生\研一上\机器学习-谭\apache-tomcat-9.0.62-windows\webapps\ml_client\WEB-INF\classes started by xch in E:\xuchenhao\学习资料-研究生\研一上\机器学习-谭\apache-tomcat-9.0.62-windows\bin)
+20:31:55.769 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStartupProfileInfo,655] - The following profiles are active: windows
+20:32:00.104 [main] INFO  c.k.m.c.MySpringBootServletInitializer - [logStarted,61] - Started MySpringBootServletInitializer in 6.435 seconds (JVM running for 14.015)
+20:33:00.046 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - [handleError,95] - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at com.kingoint.ml.client.file.FileProcess.serverPerformanceIndicator(FileProcess.java:290)
+	at com.kingoint.ml.client.schedule.ScheduleTask.serverPerformanceIndicator(ScheduleTask.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+20:34:00.010 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - [handleError,95] - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at com.kingoint.ml.client.file.FileProcess.serverPerformanceIndicator(FileProcess.java:290)
+	at com.kingoint.ml.client.schedule.ScheduleTask.serverPerformanceIndicator(ScheduleTask.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+20:35:00.015 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - [handleError,95] - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at com.kingoint.ml.client.file.FileProcess.serverPerformanceIndicator(FileProcess.java:290)
+	at com.kingoint.ml.client.schedule.ScheduleTask.serverPerformanceIndicator(ScheduleTask.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+20:36:00.010 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - [handleError,95] - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at com.kingoint.ml.client.file.FileProcess.serverPerformanceIndicator(FileProcess.java:290)
+	at com.kingoint.ml.client.schedule.ScheduleTask.serverPerformanceIndicator(ScheduleTask.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+20:37:00.004 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - [handleError,95] - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at com.kingoint.ml.client.file.FileProcess.serverPerformanceIndicator(FileProcess.java:290)
+	at com.kingoint.ml.client.schedule.ScheduleTask.serverPerformanceIndicator(ScheduleTask.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+20:38:00.014 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - [handleError,95] - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at com.kingoint.ml.client.file.FileProcess.serverPerformanceIndicator(FileProcess.java:290)
+	at com.kingoint.ml.client.schedule.ScheduleTask.serverPerformanceIndicator(ScheduleTask.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+20:39:00.016 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - [handleError,95] - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at com.kingoint.ml.client.file.FileProcess.serverPerformanceIndicator(FileProcess.java:290)
+	at com.kingoint.ml.client.schedule.ScheduleTask.serverPerformanceIndicator(ScheduleTask.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+20:40:00.004 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - [handleError,95] - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at com.kingoint.ml.client.file.FileProcess.serverPerformanceIndicator(FileProcess.java:290)
+	at com.kingoint.ml.client.schedule.ScheduleTask.serverPerformanceIndicator(ScheduleTask.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+20:41:00.002 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - [handleError,95] - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at com.kingoint.ml.client.file.FileProcess.serverPerformanceIndicator(FileProcess.java:290)
+	at com.kingoint.ml.client.schedule.ScheduleTask.serverPerformanceIndicator(ScheduleTask.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+20:42:00.007 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - [handleError,95] - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at com.kingoint.ml.client.file.FileProcess.serverPerformanceIndicator(FileProcess.java:290)
+	at com.kingoint.ml.client.schedule.ScheduleTask.serverPerformanceIndicator(ScheduleTask.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+20:43:00.008 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - [handleError,95] - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at com.kingoint.ml.client.file.FileProcess.serverPerformanceIndicator(FileProcess.java:290)
+	at com.kingoint.ml.client.schedule.ScheduleTask.serverPerformanceIndicator(ScheduleTask.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+20:44:00.014 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - [handleError,95] - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at com.kingoint.ml.client.file.FileProcess.serverPerformanceIndicator(FileProcess.java:290)
+	at com.kingoint.ml.client.schedule.ScheduleTask.serverPerformanceIndicator(ScheduleTask.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+20:45:00.005 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - [handleError,95] - Unexpected error occurred in scheduled task
+java.lang.NullPointerException: null
+	at com.kingoint.ml.client.file.FileProcess.serverPerformanceIndicator(FileProcess.java:290)
+	at com.kingoint.ml.client.schedule.ScheduleTask.serverPerformanceIndicator(ScheduleTask.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+20:45:30.656 [http-nio-5560-exec-3] INFO  c.k.m.c.c.ClientController - [noticeExperiment,64] - 接收到实验通知:{"experimentId":"517970137880448","status":0}
+20:45:33.524 [http-nio-5560-exec-5] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"517970137880448","runName":"run-0","status":0}
+20:45:33.571 [http-nio-5560-exec-7] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"517970137880448","runName":"run-0","status":1}
+20:45:33.588 [http-nio-5560-exec-9] INFO  c.k.m.c.c.ClientController - [noticeExperiment,64] - 接收到实验通知:{"experimentId":"517970137880448","status":1}
+20:45:33.605 [http-nio-5560-exec-1] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"517970137880448","runName":"run-1","status":0}
+20:45:33.621 [http-nio-5560-exec-3] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"517970137880448","runName":"run-1","status":1}
+20:45:33.635 [http-nio-5560-exec-5] INFO  c.k.m.c.c.ClientController - [noticeExperiment,64] - 接收到实验通知:{"experimentId":"517970137880448","status":1}
+20:46:00.033 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"517970137880448","experimentName":"MNIST TEST-20241030204528","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":0,"type":2,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+20:46:00.378 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+20:46:00.440 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"517970137880448","experimentName":"MNIST TEST-20241030204528","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":0,"type":3,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+20:46:00.549 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+20:46:00.602 [threadPoolTaskExecutor-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"517970137880448","experimentName":"MNIST TEST-20241030204528","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-1","status":1,"type":1,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+20:46:00.618 [threadPoolTaskExecutor-2] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"517970137880448","experimentName":"MNIST TEST-20241030204528","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":1,"type":1,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+20:46:00.774 [threadPoolTaskExecutor-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+20:46:00.780 [threadPoolTaskExecutor-2] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+20:47:01.141 [threadPoolTaskExecutor-4] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"517970137880448","experimentName":"MNIST TEST-20241030204528","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","status":1,"type":0,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+20:47:50.962 [http-nio-5560-exec-9] INFO  c.k.m.c.c.ClientController - [noticeExperiment,64] - 接收到实验通知:{"experimentId":"742874654853142","status":0}
+20:47:53.914 [http-nio-5560-exec-1] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"742874654853142","runName":"run-0","status":0}
+20:47:53.977 [http-nio-5560-exec-3] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"742874654853142","runName":"run-0","status":1}
+20:47:53.977 [http-nio-5560-exec-5] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"742874654853142","runName":"run-1","status":0}
+20:47:54.008 [http-nio-5560-exec-7] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"742874654853142","runName":"run-1","status":1}
+20:47:54.008 [http-nio-5560-exec-9] INFO  c.k.m.c.c.ClientController - [noticeExperiment,64] - 接收到实验通知:{"experimentId":"742874654853142","status":1}
+20:48:00.064 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"742874654853142","experimentName":"MNIST TEST-20241030204750","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":0,"type":2,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+20:48:00.142 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+20:48:00.142 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"742874654853142","experimentName":"MNIST TEST-20241030204750","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":0,"type":3,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+20:48:00.173 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+20:48:00.232 [threadPoolTaskExecutor-5] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"742874654853142","experimentName":"MNIST TEST-20241030204750","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-1","status":1,"type":1,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+20:48:00.252 [threadPoolTaskExecutor-6] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"742874654853142","experimentName":"MNIST TEST-20241030204750","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":1,"type":1,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+20:48:00.283 [threadPoolTaskExecutor-5] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+20:48:00.330 [threadPoolTaskExecutor-6] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+20:48:01.302 [threadPoolTaskExecutor-7] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"517970137880448","experimentName":"MNIST TEST-20241030204528","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","status":1,"type":0,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+20:49:01.268 [threadPoolTaskExecutor-10] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"742874654853142","experimentName":"MNIST TEST-20241030204750","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","status":1,"type":0,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+20:49:01.284 [threadPoolTaskExecutor-9] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"517970137880448","experimentName":"MNIST TEST-20241030204528","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","status":1,"type":0,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+20:49:02.137 [threadPoolTaskExecutor-4] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+20:49:02.137 [threadPoolTaskExecutor-4] INFO  c.k.m.c.f.FileProcess - [push,214] - 推送失败:
+com.alibaba.fastjson.JSONException: illegal fieldName input<, offset 1, character <, line 1, column 2, fastjson-version 2.0.19 <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+	at com.alibaba.fastjson.JSON.parseObject(JSON.java:510)
+	at com.kingoint.ml.client.file.FileProcess.push(FileProcess.java:209)
+	at com.kingoint.ml.client.file.FileProcess.lambda$scanningExperimentDir$3(FileProcess.java:146)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.alibaba.fastjson2.JSONException: illegal fieldName input<, offset 1, character <, line 1, column 2, fastjson-version 2.0.19 <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+	at com.alibaba.fastjson2.JSONReaderUTF16.readFieldNameHashCode(JSONReaderUTF16.java:1045)
+	at com.alibaba.fastjson2.reader.ObjectReader_1.readObject(Unknown Source)
+	at com.alibaba.fastjson.JSON.parseObject(JSON.java:500)
+	... 5 common frames omitted
+20:50:01.173 [threadPoolTaskExecutor-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"742874654853142","experimentName":"MNIST TEST-20241030204750","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","status":1,"type":0,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+20:50:01.200 [threadPoolTaskExecutor-3] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"517970137880448","experimentName":"MNIST TEST-20241030204528","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","status":1,"type":0,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+20:50:02.411 [threadPoolTaskExecutor-7] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+20:50:02.411 [threadPoolTaskExecutor-7] INFO  c.k.m.c.f.FileProcess - [push,214] - 推送失败:
+com.alibaba.fastjson.JSONException: illegal fieldName input<, offset 1, character <, line 1, column 2, fastjson-version 2.0.19 <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+	at com.alibaba.fastjson.JSON.parseObject(JSON.java:510)
+	at com.kingoint.ml.client.file.FileProcess.push(FileProcess.java:209)
+	at com.kingoint.ml.client.file.FileProcess.lambda$scanningExperimentDir$3(FileProcess.java:146)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.alibaba.fastjson2.JSONException: illegal fieldName input<, offset 1, character <, line 1, column 2, fastjson-version 2.0.19 <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+	at com.alibaba.fastjson2.JSONReaderUTF16.readFieldNameHashCode(JSONReaderUTF16.java:1045)
+	at com.alibaba.fastjson2.reader.ObjectReader_1.readObject(Unknown Source)
+	at com.alibaba.fastjson.JSON.parseObject(JSON.java:500)
+	... 5 common frames omitted
+20:51:01.153 [threadPoolTaskExecutor-2] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"517970137880448","experimentName":"MNIST TEST-20241030204528","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","status":1,"type":0,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+20:51:01.169 [threadPoolTaskExecutor-8] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"742874654853142","experimentName":"MNIST TEST-20241030204750","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","status":1,"type":0,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+20:51:02.945 [threadPoolTaskExecutor-10] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+20:51:02.961 [threadPoolTaskExecutor-10] INFO  c.k.m.c.f.FileProcess - [push,214] - 推送失败:
+com.alibaba.fastjson.JSONException: illegal fieldName input<, offset 1, character <, line 1, column 2, fastjson-version 2.0.19 <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+	at com.alibaba.fastjson.JSON.parseObject(JSON.java:510)
+	at com.kingoint.ml.client.file.FileProcess.push(FileProcess.java:209)
+	at com.kingoint.ml.client.file.FileProcess.lambda$scanningExperimentDir$3(FileProcess.java:146)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.alibaba.fastjson2.JSONException: illegal fieldName input<, offset 1, character <, line 1, column 2, fastjson-version 2.0.19 <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+	at com.alibaba.fastjson2.JSONReaderUTF16.readFieldNameHashCode(JSONReaderUTF16.java:1045)
+	at com.alibaba.fastjson2.reader.ObjectReader_1.readObject(Unknown Source)
+	at com.alibaba.fastjson.JSON.parseObject(JSON.java:500)
+	... 5 common frames omitted
+20:51:03.055 [threadPoolTaskExecutor-9] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+20:51:03.070 [threadPoolTaskExecutor-9] INFO  c.k.m.c.f.FileProcess - [push,214] - 推送失败:
+com.alibaba.fastjson.JSONException: illegal fieldName input<, offset 1, character <, line 1, column 2, fastjson-version 2.0.19 <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+	at com.alibaba.fastjson.JSON.parseObject(JSON.java:510)
+	at com.kingoint.ml.client.file.FileProcess.push(FileProcess.java:209)
+	at com.kingoint.ml.client.file.FileProcess.lambda$scanningExperimentDir$3(FileProcess.java:146)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.alibaba.fastjson2.JSONException: illegal fieldName input<, offset 1, character <, line 1, column 2, fastjson-version 2.0.19 <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+	at com.alibaba.fastjson2.JSONReaderUTF16.readFieldNameHashCode(JSONReaderUTF16.java:1045)
+	at com.alibaba.fastjson2.reader.ObjectReader_1.readObject(Unknown Source)
+	at com.alibaba.fastjson.JSON.parseObject(JSON.java:500)
+	... 5 common frames omitted
+20:51:51.023 [threadPoolTaskExecutor-3] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+20:51:51.516 [http-nio-5560-exec-2] INFO  c.k.m.c.c.ClientController - [noticeExperiment,64] - 接收到实验通知:{"experimentId":"848467416388604","status":0}
+20:51:53.520 [http-nio-5560-exec-4] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"848467416388604","runName":"run-0","status":0}
+20:51:53.615 [http-nio-5560-exec-6] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"848467416388604","runName":"run-0","status":1}
+20:51:53.615 [http-nio-5560-exec-8] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"848467416388604","runName":"run-1","status":0}
+20:51:53.630 [http-nio-5560-exec-10] INFO  c.k.m.c.c.ClientController - [noticeRun,96] - 接收到实验运行通知:{"experimentId":"848467416388604","runName":"run-1","status":1}
+20:51:53.646 [http-nio-5560-exec-2] INFO  c.k.m.c.c.ClientController - [noticeExperiment,64] - 接收到实验通知:{"experimentId":"848467416388604","status":1}
+22:15:14.634 [threadPoolTaskExecutor-11] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"848467416388604","experimentName":"MNIST TEST-20241030205150","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-1","status":1,"type":1,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+22:15:14.643 [threadPoolTaskExecutor-11] INFO  c.k.m.c.f.FileProcess - [push,214] - 推送失败:
+cn.hutool.core.io.IORuntimeException: NoRouteToHostException: No route to host: connect
+	at cn.hutool.http.HttpRequest.send(HttpRequest.java:1164)
+	at cn.hutool.http.HttpRequest.execute(HttpRequest.java:969)
+	at cn.hutool.http.HttpRequest.execute(HttpRequest.java:940)
+	at com.kingoint.ml.client.file.FileProcess.push(FileProcess.java:206)
+	at com.kingoint.ml.client.file.FileProcess.lambda$scanningRunDir$1(FileProcess.java:86)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1202)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1138)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1032)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:966)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1316)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1291)
+	at cn.hutool.http.HttpConnection.getOutputStream(HttpConnection.java:451)
+	at cn.hutool.http.HttpRequest.sendMultipart(HttpRequest.java:1209)
+	at cn.hutool.http.HttpRequest.send(HttpRequest.java:1154)
+	... 7 common frames omitted
+22:15:14.649 [threadPoolTaskExecutor-12] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"848467416388604","experimentName":"MNIST TEST-20241030205150","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":1,"type":1,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+22:15:14.650 [threadPoolTaskExecutor-12] INFO  c.k.m.c.f.FileProcess - [push,214] - 推送失败:
+cn.hutool.core.io.IORuntimeException: NoRouteToHostException: No route to host: connect
+	at cn.hutool.http.HttpRequest.send(HttpRequest.java:1164)
+	at cn.hutool.http.HttpRequest.execute(HttpRequest.java:969)
+	at cn.hutool.http.HttpRequest.execute(HttpRequest.java:940)
+	at com.kingoint.ml.client.file.FileProcess.push(FileProcess.java:206)
+	at com.kingoint.ml.client.file.FileProcess.lambda$scanningRunDir$1(FileProcess.java:86)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1202)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1138)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1032)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:966)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1316)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1291)
+	at cn.hutool.http.HttpConnection.getOutputStream(HttpConnection.java:451)
+	at cn.hutool.http.HttpRequest.sendMultipart(HttpRequest.java:1209)
+	at cn.hutool.http.HttpRequest.send(HttpRequest.java:1154)
+	... 7 common frames omitted
+22:15:14.657 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"848467416388604","experimentName":"MNIST TEST-20241030205150","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":0,"type":2,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+22:15:14.659 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,214] - 推送失败:
+cn.hutool.core.io.IORuntimeException: NoRouteToHostException: No route to host: connect
+	at cn.hutool.http.HttpRequest.send(HttpRequest.java:1164)
+	at cn.hutool.http.HttpRequest.execute(HttpRequest.java:969)
+	at cn.hutool.http.HttpRequest.execute(HttpRequest.java:940)
+	at com.kingoint.ml.client.file.FileProcess.push(FileProcess.java:206)
+	at com.kingoint.ml.client.file.FileProcess.pushSystemMonitor(FileProcess.java:341)
+	at com.kingoint.ml.client.file.FileProcess.serverPerformanceIndicator(FileProcess.java:302)
+	at com.kingoint.ml.client.schedule.ScheduleTask.serverPerformanceIndicator(ScheduleTask.java:75)
+	at sun.reflect.GeneratedMethodAccessor54.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1202)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1138)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1032)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:966)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1316)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1291)
+	at cn.hutool.http.HttpConnection.getOutputStream(HttpConnection.java:451)
+	at cn.hutool.http.HttpRequest.sendMultipart(HttpRequest.java:1209)
+	at cn.hutool.http.HttpRequest.send(HttpRequest.java:1154)
+	... 19 common frames omitted
+22:15:14.660 [scheduling-1] ERROR o.s.s.s.TaskUtils$LoggingErrorHandler - [handleError,95] - Unexpected error occurred in scheduled task
+com.kingoint.ml.client.exception.BaseException: null
+	at com.kingoint.ml.client.file.FileProcess.push(FileProcess.java:215)
+	at com.kingoint.ml.client.file.FileProcess.pushSystemMonitor(FileProcess.java:341)
+	at com.kingoint.ml.client.file.FileProcess.serverPerformanceIndicator(FileProcess.java:302)
+	at com.kingoint.ml.client.schedule.ScheduleTask.serverPerformanceIndicator(ScheduleTask.java:75)
+	at sun.reflect.GeneratedMethodAccessor54.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+22:15:15.378 [threadPoolTaskExecutor-6] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"742874654853142","experimentName":"MNIST TEST-20241030204750","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","status":1,"type":0,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+22:15:15.379 [threadPoolTaskExecutor-6] INFO  c.k.m.c.f.FileProcess - [push,214] - 推送失败:
+cn.hutool.core.io.IORuntimeException: NoRouteToHostException: No route to host: connect
+	at cn.hutool.http.HttpRequest.send(HttpRequest.java:1164)
+	at cn.hutool.http.HttpRequest.execute(HttpRequest.java:969)
+	at cn.hutool.http.HttpRequest.execute(HttpRequest.java:940)
+	at com.kingoint.ml.client.file.FileProcess.push(FileProcess.java:206)
+	at com.kingoint.ml.client.file.FileProcess.lambda$scanningExperimentDir$3(FileProcess.java:146)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1202)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1138)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1032)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:966)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1316)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1291)
+	at cn.hutool.http.HttpConnection.getOutputStream(HttpConnection.java:451)
+	at cn.hutool.http.HttpRequest.sendMultipart(HttpRequest.java:1209)
+	at cn.hutool.http.HttpRequest.send(HttpRequest.java:1154)
+	... 7 common frames omitted
+22:15:17.961 [threadPoolTaskExecutor-8] INFO  c.k.m.c.f.FileProcess - [push,214] - 推送失败:
+cn.hutool.http.HttpException: No route to host: connect
+	at cn.hutool.http.HttpResponse.init(HttpResponse.java:406)
+	at cn.hutool.http.HttpResponse.initWithDisconnect(HttpResponse.java:379)
+	at cn.hutool.http.HttpResponse.<init>(HttpResponse.java:76)
+	at cn.hutool.http.HttpRequest.execute(HttpRequest.java:976)
+	at cn.hutool.http.HttpRequest.execute(HttpRequest.java:940)
+	at com.kingoint.ml.client.file.FileProcess.push(FileProcess.java:206)
+	at com.kingoint.ml.client.file.FileProcess.lambda$scanningExperimentDir$3(FileProcess.java:146)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:698)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1569)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1474)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at cn.hutool.http.HttpConnection.responseCode(HttpConnection.java:472)
+	at cn.hutool.http.HttpResponse.init(HttpResponse.java:403)
+	... 9 common frames omitted
+22:15:17.961 [threadPoolTaskExecutor-2] INFO  c.k.m.c.f.FileProcess - [push,214] - 推送失败:
+cn.hutool.http.HttpException: No route to host: connect
+	at cn.hutool.http.HttpResponse.init(HttpResponse.java:406)
+	at cn.hutool.http.HttpResponse.initWithDisconnect(HttpResponse.java:379)
+	at cn.hutool.http.HttpResponse.<init>(HttpResponse.java:76)
+	at cn.hutool.http.HttpRequest.execute(HttpRequest.java:976)
+	at cn.hutool.http.HttpRequest.execute(HttpRequest.java:940)
+	at com.kingoint.ml.client.file.FileProcess.push(FileProcess.java:206)
+	at com.kingoint.ml.client.file.FileProcess.lambda$scanningExperimentDir$3(FileProcess.java:146)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:698)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1569)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1474)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at cn.hutool.http.HttpConnection.responseCode(HttpConnection.java:472)
+	at cn.hutool.http.HttpResponse.init(HttpResponse.java:403)
+	... 9 common frames omitted
+22:15:17.961 [threadPoolTaskExecutor-1] INFO  c.k.m.c.f.FileProcess - [push,214] - 推送失败:
+cn.hutool.http.HttpException: No route to host: connect
+	at cn.hutool.http.HttpResponse.init(HttpResponse.java:406)
+	at cn.hutool.http.HttpResponse.initWithDisconnect(HttpResponse.java:379)
+	at cn.hutool.http.HttpResponse.<init>(HttpResponse.java:76)
+	at cn.hutool.http.HttpRequest.execute(HttpRequest.java:976)
+	at cn.hutool.http.HttpRequest.execute(HttpRequest.java:940)
+	at com.kingoint.ml.client.file.FileProcess.push(FileProcess.java:206)
+	at com.kingoint.ml.client.file.FileProcess.lambda$scanningExperimentDir$3(FileProcess.java:146)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:698)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1569)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1474)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at cn.hutool.http.HttpConnection.responseCode(HttpConnection.java:472)
+	at cn.hutool.http.HttpResponse.init(HttpResponse.java:403)
+	... 9 common frames omitted
+22:16:00.014 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"848467416388604","experimentName":"MNIST TEST-20241030205150","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":0,"type":2,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+22:16:00.073 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+22:16:00.075 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"848467416388604","experimentName":"MNIST TEST-20241030205150","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":0,"type":3,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+22:16:00.118 [scheduling-1] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+22:16:00.130 [threadPoolTaskExecutor-13] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"848467416388604","experimentName":"MNIST TEST-20241030205150","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-1","status":1,"type":1,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+22:16:00.139 [threadPoolTaskExecutor-14] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"848467416388604","experimentName":"MNIST TEST-20241030205150","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","runName":"run-0","status":1,"type":1,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+22:16:00.188 [threadPoolTaskExecutor-13] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+22:16:00.237 [threadPoolTaskExecutor-14] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+22:16:00.699 [threadPoolTaskExecutor-5] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"742874654853142","experimentName":"MNIST TEST-20241030204750","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","status":1,"type":0,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+22:17:00.640 [threadPoolTaskExecutor-16] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"742874654853142","experimentName":"MNIST TEST-20241030204750","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","status":1,"type":0,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+22:17:00.840 [threadPoolTaskExecutor-15] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"848467416388604","experimentName":"MNIST TEST-20241030205150","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","status":1,"type":0,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+22:17:13.558 [threadPoolTaskExecutor-5] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+22:18:00.697 [threadPoolTaskExecutor-17] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"848467416388604","experimentName":"MNIST TEST-20241030205150","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","status":1,"type":0,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+22:18:25.866 [threadPoolTaskExecutor-16] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+22:19:00.689 [threadPoolTaskExecutor-18] INFO  c.k.m.c.f.FileProcess - [push,200] - 【当前请求的参数为】：{"description":"MNIST ","experimentId":"848467416388604","experimentName":"MNIST TEST-20241030205150","projectId":"1377","repositoryId":"f643e05082364c7e8fe6746e2c975563","status":1,"type":0,"userToken":"1u0tjtyn6c2yx72ajh67hlv5"}
+22:19:01.668 [threadPoolTaskExecutor-15] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+22:19:01.668 [threadPoolTaskExecutor-15] INFO  c.k.m.c.f.FileProcess - [push,214] - 推送失败:
+com.alibaba.fastjson.JSONException: illegal fieldName input<, offset 1, character <, line 1, column 2, fastjson-version 2.0.19 <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+	at com.alibaba.fastjson.JSON.parseObject(JSON.java:510)
+	at com.kingoint.ml.client.file.FileProcess.push(FileProcess.java:209)
+	at com.kingoint.ml.client.file.FileProcess.lambda$scanningExperimentDir$3(FileProcess.java:146)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.alibaba.fastjson2.JSONException: illegal fieldName input<, offset 1, character <, line 1, column 2, fastjson-version 2.0.19 <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.22.0</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+	at com.alibaba.fastjson2.JSONReaderUTF16.readFieldNameHashCode(JSONReaderUTF16.java:1045)
+	at com.alibaba.fastjson2.reader.ObjectReader_1.readObject(Unknown Source)
+	at com.alibaba.fastjson.JSON.parseObject(JSON.java:500)
+	... 5 common frames omitted
+22:19:07.446 [threadPoolTaskExecutor-17] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}
+22:19:27.149 [threadPoolTaskExecutor-18] INFO  c.k.m.c.f.FileProcess - [push,208] - 【推送结果为】：{"code":200,"success":true,"data":null,"msg":"成功"}

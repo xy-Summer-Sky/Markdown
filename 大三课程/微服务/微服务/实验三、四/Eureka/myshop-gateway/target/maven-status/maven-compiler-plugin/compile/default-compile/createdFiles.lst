@@ -1,9 +1,0 @@
-com\example\myshopgateway\MyFilter\MyFilter2.class
-com\example\myshopgateway\MyFilter\MyErrorFilter.class
-com\example\myshopgateway\demos\web\BasicController.class
-com\example\myshopgateway\demos\web\PathVariableController.class
-com\example\myshopgateway\demos\web\User.class
-com\example\myshopgateway\MyshopGatewayApplication.class
-com\example\myshopgateway\pojo\Result.class
-com\example\myshopgateway\MyFilter\AuthFilter.class
-com\example\myshopgateway\MyFilter\MyFilter1.class

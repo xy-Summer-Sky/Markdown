@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="01dbc9cf-27d4-433f-a78c-0cf2d8655bc9" name="更改" comment="Merge remote-tracking branch 'origin/summer' into summer">
       <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/assets/clip_image010.jpg" afterDir="false" />

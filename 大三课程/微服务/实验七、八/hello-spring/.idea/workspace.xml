@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="hello-user:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85965a50-35aa-48bd-a380-77027ccb562f" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../3D/配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3D/配置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据库/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../数据库/2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../机器学习/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../机器学习/1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../软件项目管理/2018pmtemplates/requirements traceability matrix.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../软件项目管理/2018pmtemplates/requirements traceability matrix.doc" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xy-Summer-Sky&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/xy-Summer-Sky/Markdown.git&quot;,
+    &quot;accountId&quot;: &quot;55a55669-5916-4bb4-b6e4-fc1c3ddf10fc&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Code\Java\xml文件\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2nm4rqdjHKdfUKEWnbbVecyyKMU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ZipkinApplication.executor": "Run",
+    "HTTP 请求.generated-requests | #1.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.ConfigApplication.executor": "Run",
+    "Spring Boot.EurekaApplication.executor": "Run",
+    "Spring Boot.GatewayApplication.executor": "Run",
+    "Spring Boot.HelloApplication.executor": "Run",
+    "Spring Boot.HystrixApplication.executor": "Run",
+    "Spring Boot.UserApplication.executor": "Run",
+    "Spring Boot.WebApplication.executor": "Run",
+    "Spring Boot.ZipkinApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/CODE/GIThub/Markdown/大三课程/微服务/实验七、八/hello-spring",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "spring",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\Java\微服务与容器\hello-spring" />
+      <recent name="D:\Code\Java\微服务与容器\hello-spring\myshop-user" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserApplication">
+    <configuration name="ZipkinApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ZipkinApplication" />
+      <module name="zipkin-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" nameIsGenerated="true">
+      <module name="myshop-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="myshop-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hello-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.HelloApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hystrix-monitor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.HystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" nameIsGenerated="true">
+      <module name="myshop-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="myshop-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipkinApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="zipkin-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.ZipkinApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ZipkinApplication" />
+      <item itemvalue="HTTP Request.generated-requests | #1" />
+      <item itemvalue="Spring Boot.ZipkinApplication" />
+      <item itemvalue="Spring Boot.ConfigApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.HystrixApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.HelloApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.WebApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ZipkinApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="85965a50-35aa-48bd-a380-77027ccb562f" name="更改" comment="" />
+      <created>1729565120464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729565120464</updated>
+      <workItem from="1729565121374" duration="9811000" />
+      <workItem from="1729649459852" duration="2646000" />
+      <workItem from="1729759715366" duration="4952000" />
+      <workItem from="1729843313991" duration="8822000" />
+      <workItem from="1730038075574" duration="1361000" />
+      <workItem from="1730077739346" duration="23000" />
+      <workItem from="1730099972516" duration="1054000" />
+      <workItem from="1730101038968" duration="11200000" />
+      <workItem from="1730132293922" duration="2101000" />
+      <workItem from="1730164212073" duration="11898000" />
+      <workItem from="1730479955460" duration="12000" />
+      <workItem from="1730639894015" duration="812000" />
+      <workItem from="1730681488535" duration="6389000" />
+      <workItem from="1730689123309" duration="79000" />
+      <workItem from="1730689315625" duration="19898000" />
+      <workItem from="1730798612159" duration="1312000" />
+      <workItem from="1730942641229" duration="2432000" />
+      <workItem from="1730974476087" duration="651000" />
+      <workItem from="1731205964419" duration="166000" />
+      <workItem from="1731207233353" duration="1246000" />
+      <workItem from="1731208494797" duration="57000" />
+      <workItem from="1731242454165" duration="621000" />
+      <workItem from="1731245489051" duration="152000" />
+      <workItem from="1731286955217" duration="1057000" />
+      <workItem from="1731288033364" duration="789000" />
+      <workItem from="1731289990134" duration="8297000" />
+      <workItem from="1731312302555" duration="2531000" />
+      <workItem from="1731337333406" duration="13145000" />
+      <workItem from="1731422859227" duration="1202000" />
+      <workItem from="1731496974202" duration="277000" />
+      <workItem from="1731574316702" duration="720000" />
+      <workItem from="1731575047400" duration="2250000" />
+      <workItem from="1731578883482" duration="1415000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

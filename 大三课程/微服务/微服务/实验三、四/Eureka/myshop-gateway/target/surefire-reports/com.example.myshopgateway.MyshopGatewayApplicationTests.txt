@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.example.myshopgateway.MyshopGatewayApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.359 s -- in com.example.myshopgateway.MyshopGatewayApplicationTests
