@@ -1,2 +1,6 @@
 *.zip
 summer/体系结构/体系结构作业/
+*.exe
+*.dll
+*.jar
+* filter=ignore-large-files
