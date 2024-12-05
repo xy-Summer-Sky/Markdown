@@ -5,455 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01dbc9cf-27d4-433f-a78c-0cf2d8655bc9" name="更改" comment="Merge remote-tracking branch 'origin/summer' into summer">
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/assets/clip_image010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/assets/clip_image098.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/assets/clip_image103.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/assets/clip_image118.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/assets/image-20241029163005109.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/assets/image-20241029163347229.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/assets/image-20241029163445436.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/assets/image-20241029163540732.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/assets/image-20241029170546472.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/assets/image-20241029172032967.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/demo/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/demo/.idea/dataSources/cc8b30f5-e711-4968-a12f-4c7be550eca7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/demo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/demo1/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/demo1/.idea/dataSources/a3b8f5d9-1e92-4ee2-a292-ad45dc6b3dd7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/demo1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/.idea/ApifoxUploaderProjectSetting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-user/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-user/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-user/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-user/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-user/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-user/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-user/src/main/java/com/example/myshopuser/MyshopUserApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-user/src/main/java/com/example/myshopuser/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-user/src/main/java/com/example/myshopuser/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-user/src/main/java/com/example/myshopuser/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-user/src/main/java/com/example/myshopuser/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-user/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-user/src/test/java/com/example/myshopuser/MyshopUserApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-web/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-web/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-web/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-web/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-web/src/main/java/com/example/myshopweb/MyshopWebApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-web/src/main/java/com/example/myshopweb/controller/WebController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-web/src/main/java/com/example/myshopweb/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-web/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/myshop-web/src/test/java/com/example/myshopweb/MyshopWebApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/src/main/java/com/example/myshopparent/MyshopParentApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/src/test/java/com/example/myshopparent/MyshopParentApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验一、二/myshop-parent/target/classes/com/example/myshopparent/MyshopParentApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/202230091036_石夏源_lab78.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/.idea/ApifoxUploaderProjectSetting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/.idea/Eureka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-client/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-client/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-client/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-client/src/main/java/com/example/eurekaclient/EurekaClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-client/src/main/java/com/example/eurekaclient/config/Jersey3TransportClientFactoriesConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-client/src/main/java/com/example/eurekaclient/ribbon/RandonRuleConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-client/src/test/java/com/example/eurekaclient/EurekaClientApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-server/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-server/src/main/java/com/example/eurekaserver/EurekaServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/eureka-server/src/test/java/com/example/eurekaserver/EurekaServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/hystrix-monitor-sxy/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/hystrix-monitor-sxy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/hystrix-monitor-sxy/src/main/java/com/example/hystrixmonitorsxy/HystrixMonitorSxyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/hystrix-monitor-sxy/src/main/java/com/example/hystrixmonitorsxy/demos/web/BasicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/hystrix-monitor-sxy/src/main/java/com/example/hystrixmonitorsxy/demos/web/PathVariableController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/hystrix-monitor-sxy/src/main/java/com/example/hystrixmonitorsxy/demos/web/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/hystrix-monitor-sxy/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/hystrix-monitor-sxy/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/hystrix-monitor-sxy/src/test/java/com/example/hystrixmonitorsxy/HystrixMonitorSxyApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-config/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-config/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-config/src/main/java/com/example/myshopconfig/MyshopConfigApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-config/src/main/java/com/example/myshopconfig/demos/web/BasicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-config/src/main/java/com/example/myshopconfig/demos/web/PathVariableController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-config/src/main/java/com/example/myshopconfig/demos/web/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-config/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-config/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-config/src/test/java/com/example/myshopconfig/MyshopConfigApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-gateway/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/DocumentationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/MyFilter/AuthFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/MyFilter/MyErrorFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/MyFilter/MyFilter1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/MyFilter/MyFilter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/MyshopGatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/demos/web/BasicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/demos/web/PathVariableController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/demos/web/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/pojo/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-gateway/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-gateway/src/test/java/com/example/myshopgateway/MyshopGatewayApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-user/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-user/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-user/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-user/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-user/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-user/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-user/src/main/java/com/example/myshopuser/MyshopUserApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-user/src/main/java/com/example/myshopuser/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-user/src/main/java/com/example/myshopuser/config/Jersey3TransportClientFactoriesConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-user/src/main/java/com/example/myshopuser/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-user/src/main/java/com/example/myshopuser/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-user/src/main/java/com/example/myshopuser/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-user/src/main/java/com/example/myshopuser/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-user/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-user/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-user/src/test/java/com/example/myshopuser/MyshopUserApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/src/main/java/com/example/myshopweb/MyshopWebApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/src/main/java/com/example/myshopweb/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/src/main/java/com/example/myshopweb/client/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/src/main/java/com/example/myshopweb/client/UserControllerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/src/main/java/com/example/myshopweb/config/Jersey3TransportClientFactoriesConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/src/main/java/com/example/myshopweb/controller/WebController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/src/main/java/com/example/myshopweb/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/src/main/java/com/example/ribbon/CloudRole2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/myshop-web/src/test/java/com/example/myshopweb/MyshopWebApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/src/main/java/com/example/eureka/EurekaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/src/test/java/com/example/eureka/EurekaApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/classes/com/example/eureka/EurekaApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/classes/com/example/myshopgateway/DocumentationConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/classes/com/example/myshopgateway/MyshopGatewayApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/classes/com/example/myshopgateway/demos/web/BasicController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/classes/com/example/myshopgateway/demos/web/PathVariableController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/classes/com/example/myshopgateway/demos/web/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/classes/com/example/myshopgateway/pojo/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/classes/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/surefire-reports/2024-11-05T14-29-30_471.dumpstream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/surefire-reports/TEST-com.example.eureka.EurekaApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/surefire-reports/com.example.eureka.EurekaApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/target/test-classes/com/example/eureka/EurekaApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server-sxy/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server-sxy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server-sxy/src/main/java/com/example/zipkinserversxy/ZipkinServerSxyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server-sxy/src/main/java/com/example/zipkinserversxy/demos/web/BasicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server-sxy/src/main/java/com/example/zipkinserversxy/demos/web/PathVariableController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server-sxy/src/main/java/com/example/zipkinserversxy/demos/web/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server-sxy/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server-sxy/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server-sxy/src/test/java/com/example/zipkinserversxy/ZipkinServerSxyApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server/src/main/java/com/example/zipkinserver/ZipkinServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server/src/main/java/com/example/zipkinserver/demos/web/BasicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server/src/main/java/com/example/zipkinserver/demos/web/PathVariableController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server/src/main/java/com/example/zipkinserver/demos/web/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/Eureka/zipkin-server/src/test/java/com/example/zipkinserver/ZipkinServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/assets/clip_image002-1731579759368-84.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/assets/clip_image004-1731579643056-42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/assets/clip_image008-1731579833820-111.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/assets/clip_image010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/assets/clip_image014-1731579606039-25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/assets/clip_image014-1731579737151-73.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/assets/clip_image014-1731579813066-93.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/assets/clip_image016-1731579643056-48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/assets/clip_image022-1731579643057-51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/assets/image-20241114183716365.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/.idea/dataSources/b98d0f57-e099-4db4-834f-d3f9edf3d829.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/.idea/dataSources/b98d0f57-e099-4db4-834f-d3f9edf3d829/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/.idea/dataSources/b98d0f57-e099-4db4-834f-d3f9edf3d829/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/.idea/dataSources/b98d0f57-e099-4db4-834f-d3f9edf3d829/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/.idea/dataSources/b98d0f57-e099-4db4-834f-d3f9edf3d829/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/.idea/httpRequests/http-client.cookies" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/eureka-server/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/eureka-server/target/classes/org/example/EurekaApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/hello-user/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/hello-user/target/classes/org/example/HelloApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/hello-user/target/classes/org/example/controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/hystrix-monitor/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/hystrix-monitor/target/classes/org/example/HystrixApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-config/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-config/target/classes/org/example/ConfigApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-gateway/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-gateway/target/classes/org/example/DocumentationConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-gateway/target/classes/org/example/GatewayApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-gateway/target/classes/org/example/pojo/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-user/src/main/java/org/example/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-user/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-user/target/classes/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-user/target/classes/org/example/SwaggerConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-user/target/classes/org/example/UserApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-user/target/classes/org/example/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-user/target/classes/org/example/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-user/target/classes/org/example/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-user/target/classes/org/example/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-web/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-web/target/classes/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-web/target/classes/org/example/SwaggerConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-web/target/classes/org/example/WebApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-web/target/classes/org/example/client/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-web/target/classes/org/example/client/UserControllerImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-web/target/classes/org/example/controller/WebController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/myshop-web/target/classes/org/example/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/zipkin-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/hello-spring/zipkin-server/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验七、八/~$b8 Spring Cloud分布式链路跟踪.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/202230091036_石夏源_lab34.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/.idea/ApifoxUploaderProjectSetting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/.idea/dataSources/1ec36dea-323a-49af-a256-a6aa1b4ab8f3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/.idea/dataSources/1ec36dea-323a-49af-a256-a6aa1b4ab8f3/storage_v2/_src_/schema/3dRender.h0N77Q.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/.idea/dataSources/1ec36dea-323a-49af-a256-a6aa1b4ab8f3/storage_v2/_src_/schema/springcloud.SBwJ1Q.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/.idea/dataSources/7e9ecfc8-d15d-4943-aade-5220a190ff95.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/.idea/dataSources/7e9ecfc8-d15d-4943-aade-5220a190ff95/storage_v2/_src_/schema/springcloud.SBwJ1Q.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-client/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-client/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-client/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-client/src/main/java/com/example/eurekaclient/EurekaClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-client/src/main/java/com/example/eurekaclient/config/Jersey3TransportClientFactoriesConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-client/src/main/java/com/example/eurekaclient/ribbon/RandonRuleConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-client/src/test/java/com/example/eurekaclient/EurekaClientApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-client/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-client/target/classes/com/example/eurekaclient/EurekaClientApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-client/target/classes/com/example/eurekaclient/ribbon/RandonRuleConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/src/main/java/com/example/eurekaserver/EurekaServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/src/test/java/com/example/eurekaserver/EurekaServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/target/classes/com/example/eurekaserver/EurekaServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/target/surefire-reports/2024-11-05T14-41-09_005.dumpstream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/target/surefire-reports/TEST-com.example.eurekaserver.EurekaServerApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/target/surefire-reports/com.example.eurekaserver.EurekaServerApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/eureka-server/target/test-classes/com/example/eurekaserver/EurekaServerApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/hystrix-monitor-sxy/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/hystrix-monitor-sxy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/hystrix-monitor-sxy/src/main/java/com/example/hystrixmonitorsxy/HystrixMonitorSxyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/hystrix-monitor-sxy/src/main/java/com/example/hystrixmonitorsxy/demos/web/BasicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/hystrix-monitor-sxy/src/main/java/com/example/hystrixmonitorsxy/demos/web/PathVariableController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/hystrix-monitor-sxy/src/main/java/com/example/hystrixmonitorsxy/demos/web/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/hystrix-monitor-sxy/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/hystrix-monitor-sxy/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/hystrix-monitor-sxy/src/test/java/com/example/hystrixmonitorsxy/HystrixMonitorSxyApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/hystrix-monitor-sxy/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/hystrix-monitor-sxy/target/classes/com/example/hystrixmonitorsxy/HystrixMonitorSxyApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/hystrix-monitor-sxy/target/classes/com/example/hystrixmonitorsxy/demos/web/BasicController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/hystrix-monitor-sxy/target/classes/com/example/hystrixmonitorsxy/demos/web/PathVariableController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/hystrix-monitor-sxy/target/classes/com/example/hystrixmonitorsxy/demos/web/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/hystrix-monitor-sxy/target/classes/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/DocumentationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/MyFilter/AuthFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/MyFilter/MyErrorFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/MyFilter/MyFilter1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/MyFilter/MyFilter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/MyshopGatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/demos/web/BasicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/demos/web/PathVariableController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/demos/web/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/src/main/java/com/example/myshopgateway/pojo/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/src/test/java/com/example/myshopgateway/MyshopGatewayApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/target/surefire-reports/2024-11-05T19-22-17_274.dumpstream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/target/surefire-reports/TEST-com.example.myshopgateway.MyshopGatewayApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/target/surefire-reports/com.example.myshopgateway.MyshopGatewayApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-gateway/target/test-classes/com/example/myshopgateway/MyshopGatewayApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/src/main/java/com/example/myshopuser/MyshopUserApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/src/main/java/com/example/myshopuser/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/src/main/java/com/example/myshopuser/config/Jersey3TransportClientFactoriesConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/src/main/java/com/example/myshopuser/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/src/main/java/com/example/myshopuser/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/src/main/java/com/example/myshopuser/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/src/main/java/com/example/myshopuser/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/src/test/java/com/example/myshopuser/MyshopUserApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/target/classes/com/example/myshopuser/MyshopUserApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/target/classes/com/example/myshopuser/SwaggerConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/target/classes/com/example/myshopuser/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/target/classes/com/example/myshopuser/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/target/classes/com/example/myshopuser/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/target/classes/com/example/myshopuser/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/src/main/java/com/example/myshopweb/MyshopWebApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/src/main/java/com/example/myshopweb/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/src/main/java/com/example/myshopweb/client/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/src/main/java/com/example/myshopweb/client/UserControllerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/src/main/java/com/example/myshopweb/config/Jersey3TransportClientFactoriesConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/src/main/java/com/example/myshopweb/controller/WebController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/src/main/java/com/example/myshopweb/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/src/main/java/com/example/ribbon/CloudRole2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/src/test/java/com/example/myshopweb/MyshopWebApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/target/classes/com/example/myshopweb/MyshopWebApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/target/classes/com/example/myshopweb/SwaggerConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/target/classes/com/example/myshopweb/client/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/target/classes/com/example/myshopweb/client/UserControllerImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/target/classes/com/example/myshopweb/controller/WebController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/target/classes/com/example/myshopweb/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/myshop-web/target/classes/com/example/ribbon/CloudRole2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/src/main/java/com/example/eureka/EurekaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/src/test/java/com/example/eureka/EurekaApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/classes/com/example/eureka/EurekaApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/classes/com/example/myshopgateway/DocumentationConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/classes/com/example/myshopgateway/MyshopGatewayApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/classes/com/example/myshopgateway/demos/web/BasicController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/classes/com/example/myshopgateway/demos/web/PathVariableController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/classes/com/example/myshopgateway/demos/web/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/classes/com/example/myshopgateway/pojo/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/classes/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/surefire-reports/2024-11-05T14-29-30_471.dumpstream" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/surefire-reports/TEST-com.example.eureka.EurekaApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/surefire-reports/com.example.eureka.EurekaApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/Eureka/target/test-classes/com/example/eureka/EurekaApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验三、四/lab4 Spring Cloud服务调用与负载均衡.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/eureka-client/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/eureka-client/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/eureka-client/target/classes/com/example/eurekaclient/EurekaClientApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/eureka-client/target/classes/com/example/eurekaclient/config/Jersey3TransportClientFactoriesConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/eureka-client/target/classes/com/example/eurekaclient/ribbon/RandonRuleConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/eureka-server/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/eureka-server/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/eureka-server/target/classes/com/example/eurekaserver/EurekaServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/myshop-user/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/myshop-user/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/myshop-user/target/classes/com/example/myshopuser/MyshopUserApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/myshop-user/target/classes/com/example/myshopuser/config/Jersey3TransportClientFactoriesConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/myshop-user/target/classes/com/example/myshopuser/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/myshop-user/target/classes/com/example/myshopuser/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/myshop-user/target/classes/com/example/myshopuser/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/myshop-user/target/classes/com/example/myshopuser/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/myshop-web/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/myshop-web/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/myshop-web/target/classes/com/example/myshopweb/MyshopWebApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/myshop-web/target/classes/com/example/myshopweb/client/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/myshop-web/target/classes/com/example/myshopweb/config/Jersey3TransportClientFactoriesConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/myshop-web/target/classes/com/example/myshopweb/controller/WebController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/myshop-web/target/classes/com/example/myshopweb/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/Eureka/myshop-web/target/classes/com/example/ribbon/CloudRole2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/assets/image-20241105213046033.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/assets/image-20241105213130911.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/assets/image-20241105213145784.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/assets/image-20241106003609328.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/assets/image-20241106003659260.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/assets/image-20241106003729716.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/assets/image-20241106003855221.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/assets/image-20241106004730310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/assets/image-20241106004756708.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/assets/image-20241106005225075.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/hystrix-monitor/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/hystrix-monitor/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/hystrix-monitor/src/main/java/com/example/hystrixmonitor/HystrixMonitorApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/实验五、六/hystrix-monitor/src/test/java/com/example/hystrixmonitor/HystrixMonitorApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大三课程/微服务/微服务/报告.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/summer/项目管理课件/上课/PM课件发布/ppt-pptx-pdf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/summer/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/summer/.obsidian/workspace.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -463,21 +16,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "xy-Summer-Sky"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xy-Summer-Sky&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/xy-Summer-Sky/Markdown.git",
-    "accountId": "55a55669-5916-4bb4-b6e4-fc1c3ddf10fc"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/xy-Summer-Sky/Markdown.git&quot;,
+    &quot;accountId&quot;: &quot;55a55669-5916-4bb4-b6e4-fc1c3ddf10fc&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2pmPM7hKt8WF3VTkvFtSADIxKUT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -490,15 +43,24 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "summer",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/CODE/GIThub/Markdown/summer/项目管理课件/上课/PM课件发布",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\CODE\GIThub\Markdown\summer\项目管理课件\上课\PM课件发布" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -516,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733368229592</updated>
       <workItem from="1733368230335" duration="537000" />
+      <workItem from="1733371250833" duration="55000" />
     </task>
     <task id="LOCAL-00001" summary="1&#10;Update README.md">
       <option name="closed" value="true" />
