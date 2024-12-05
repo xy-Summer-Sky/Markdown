@@ -1,6 +1,0 @@
-需提交材料：
-1.课程设计文档（不少于10页）
-2.源码
-3.团队分工及成员评分（团队最多6人）
-
-必须微服务架构，不限制采用何种微服务框架，推荐Spring Cloud Netflix，Spring Cloud Alibaba，Dubbo

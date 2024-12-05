@@ -1,5 +1,0 @@
-server:
-  port: 9003
-spring:   # 服务名称
-  application:
-    name: hello-user
